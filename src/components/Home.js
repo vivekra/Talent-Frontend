@@ -10,7 +10,7 @@ function Home() {
 
 <section className="header-spacing banner-main europe-new-banner banner-post not-after">
 <figure className="banner-post-img">
-<script src="/images/banner-bg.jpg" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src='/images/banner.jpg' alt="/banner.jpg"  />
+<img src='/images/banner.jpg' alt="/banner.jpg"  />
 </figure>
 <div className="container-fluid">
 <div className="row gy-4 gy-xl-0 align-items-md-center">
@@ -32,7 +32,7 @@ Pricing</a>
 <div className="col-4 card card1">
 <div className="boxed bg-white text-left ">
 <div className="d-flex align-items-center mb-lg">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/profile2.jpg" alt="React developer Janine" className="mr-3 w-auto idustries-icon-img" data-pagespeed-url-hash="3844621228" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/profile2.jpg" alt="React developer Janine" className="mr-3 w-auto idustries-icon-img"   />
 <div className="ml-3">
 <h2 className="h5 font-bold">Janine</h2>
 <p>Lead React Architect</p>
@@ -56,8 +56,8 @@ Pricing</a>
 frameworks like React JS, Laravel, Vue JS, Node JS, PHP, and jQuery.</p>
 <div>
 <span className="d-inline-flex align-items-center px-2 py-1 bg-dark text-white position-relative pr-3 text-14">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAADvgCD3gCD0gCD3giDzgyD1gyD0gSD0giD2giD1gSD0giD0gSD1gyD1giD0giD1gyD1giD1giD1giD1giC3rl1mAAAAFHRSTlMAECAwP0BQX2BwgI+QoK/Az9/v8KYs/BgAAABkSURBVBjTXY5BDsIgAASnRRRRRMr8/60eSCp0bzPZbBYACO3Fkqpp5qi2S2GqbLePqscjAKTmlG+guySTFu47i+kBIF8YTlEG76eoQ/xHjiGy2nNRHRtF3xvEqnFcz/uo3p/AD1LoCqFI/b8CAAAAAElFTkSuQmCC" alt="star" title="star" className="mr-2 w-auto profile-star-img" data-pagespeed-url-hash="4290969671" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />Expert in
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAeCAMAAAAmXq8/AAAAYFBMVEUAAAAAAAAkJCQVFRUODg4WFhYSEhIXFxcSEhIVFRUTExMREREUFBQSEhIUFBQTExMTExMUFBQTExMSEhITExMTExMUFBQUFBQTExMSEhITExMTExMTExMTExMTExMTExOlRT5OAAAAH3RSTlMAAQcMEhcdIjk+Q0lOVFlfe4CFi5CWm7e9wsfN0tj5cKdJCQAAAEtJREFUGNNdycsNgDAQxNABCqH/0uhgNl8OcQTak5/k45Yk6TlXZWCByJh7lQlCGQZlgFCGQe0glGHQGghlGPQK1vnDYBTA+XCpL7xHayRwydTknAAAAABJRU5ErkJggg==" alt="holder" className="bottom-0 left-100 position-absolute top-0 w-auto holder-img" data-pagespeed-url-hash="1845548382" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAADvgCD3gCD0gCD3giDzgyD1gyD0gSD0giD2giD1gSD0giD0gSD1gyD1giD0giD1gyD1giD1giD1giD1giC3rl1mAAAAFHRSTlMAECAwP0BQX2BwgI+QoK/Az9/v8KYs/BgAAABkSURBVBjTXY5BDsIgAASnRRRRRMr8/60eSCp0bzPZbBYACO3Fkqpp5qi2S2GqbLePqscjAKTmlG+guySTFu47i+kBIF8YTlEG76eoQ/xHjiGy2nNRHRtF3xvEqnFcz/uo3p/AD1LoCqFI/b8CAAAAAElFTkSuQmCC" alt="star" title="star" className="mr-2 w-auto profile-star-img" data-pagespeed-url-hash="4290969671" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />Expert in
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAeCAMAAAAmXq8/AAAAYFBMVEUAAAAAAAAkJCQVFRUODg4WFhYSEhIXFxcSEhIVFRUTExMREREUFBQSEhIUFBQTExMTExMUFBQTExMSEhITExMTExMUFBQUFBQTExMSEhITExMTExMTExMTExMTExMTExOlRT5OAAAAH3RSTlMAAQcMEhcdIjk+Q0lOVFlfe4CFi5CWm7e9wsfN0tj5cKdJCQAAAEtJREFUGNNdycsNgDAQxNABCqH/0uhgNl8OcQTak5/k45Yk6TlXZWCByJh7lQlCGQZlgFCGQe0glGHQGghlGPQK1vnDYBTA+XCpL7xHayRwydTknAAAAABJRU5ErkJggg==" alt="holder" className="bottom-0 left-100 position-absolute top-0 w-auto holder-img" data-pagespeed-url-hash="1845548382" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </span>
 </div>
 <div className="small-heading-two text-14">
@@ -74,7 +74,7 @@ Janine</a>
 <div className="col-4 card card2 focused_card">
 <div className="boxed bg-white text-left ">
 <div className="d-flex align-items-center mb-lg">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/profile1.jpg" alt="React developer Brett" className="mr-3 w-auto idustries-icon-img" data-pagespeed-url-hash="3238742552" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/profile1.jpg" alt="React developer Brett" className="mr-3 w-auto idustries-icon-img" data-pagespeed-url-hash="3238742552" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <div className="ml-3">
 <h2 className="h5 font-bold">Brett</h2>
 <p>Lead React Architect</p>
@@ -98,9 +98,9 @@ Janine</a>
 Php, Angular and jQuery. He also has solid experience working in domains.</p>
 <div>
 <span className="d-inline-flex align-items-center px-2 py-1 bg-dark text-white position-relative pr-3 text-14">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAADvgCD3gCD0gCD3giDzgyD1gyD0gSD0giD2giD1gSD0giD0gSD1gyD1giD0giD1gyD1giD1giD1giD1giC3rl1mAAAAFHRSTlMAECAwP0BQX2BwgI+QoK/Az9/v8KYs/BgAAABkSURBVBjTXY5BDsIgAASnRRRRRMr8/60eSCp0bzPZbBYACO3Fkqpp5qi2S2GqbLePqscjAKTmlG+guySTFu47i+kBIF8YTlEG76eoQ/xHjiGy2nNRHRtF3xvEqnFcz/uo3p/AD1LoCqFI/b8CAAAAAElFTkSuQmCC" alt="star" title="star" className="mr-2 w-auto profile-star-img" data-pagespeed-url-hash="4290969671" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAADvgCD3gCD0gCD3giDzgyD1gyD0gSD0giD2giD1gSD0giD0gSD1gyD1giD0giD1gyD1giD1giD1giD1giC3rl1mAAAAFHRSTlMAECAwP0BQX2BwgI+QoK/Az9/v8KYs/BgAAABkSURBVBjTXY5BDsIgAASnRRRRRMr8/60eSCp0bzPZbBYACO3Fkqpp5qi2S2GqbLePqscjAKTmlG+guySTFu47i+kBIF8YTlEG76eoQ/xHjiGy2nNRHRtF3xvEqnFcz/uo3p/AD1LoCqFI/b8CAAAAAElFTkSuQmCC" alt="star" title="star" className="mr-2 w-auto profile-star-img" data-pagespeed-url-hash="4290969671" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 Expert in
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAeCAMAAAAmXq8/AAAAYFBMVEUAAAAAAAAkJCQVFRUODg4WFhYSEhIXFxcSEhIVFRUTExMREREUFBQSEhIUFBQTExMTExMUFBQTExMSEhITExMTExMUFBQUFBQTExMSEhITExMTExMTExMTExMTExMTExOlRT5OAAAAH3RSTlMAAQcMEhcdIjk+Q0lOVFlfe4CFi5CWm7e9wsfN0tj5cKdJCQAAAEtJREFUGNNdycsNgDAQxNABCqH/0uhgNl8OcQTak5/k45Yk6TlXZWCByJh7lQlCGQZlgFCGQe0glGHQGghlGPQK1vnDYBTA+XCpL7xHayRwydTknAAAAABJRU5ErkJggg==" alt="holder" className="bottom-0 left-100 position-absolute top-0 w-auto holder-img" data-pagespeed-url-hash="1845548382" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAeCAMAAAAmXq8/AAAAYFBMVEUAAAAAAAAkJCQVFRUODg4WFhYSEhIXFxcSEhIVFRUTExMREREUFBQSEhIUFBQTExMTExMUFBQTExMSEhITExMTExMUFBQUFBQTExMSEhITExMTExMTExMTExMTExMTExOlRT5OAAAAH3RSTlMAAQcMEhcdIjk+Q0lOVFlfe4CFi5CWm7e9wsfN0tj5cKdJCQAAAEtJREFUGNNdycsNgDAQxNABCqH/0uhgNl8OcQTak5/k45Yk6TlXZWCByJh7lQlCGQZlgFCGQe0glGHQGghlGPQK1vnDYBTA+XCpL7xHayRwydTknAAAAABJRU5ErkJggg==" alt="holder" className="bottom-0 left-100 position-absolute top-0 w-auto holder-img" data-pagespeed-url-hash="1845548382" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </span>
 </div>
 <div className="small-heading-two text-14">
@@ -117,7 +117,7 @@ Brett</a>
 <div className="col-4 card card3">
 <div className="boxed bg-white text-left ">
 <div className="d-flex align-items-center mb-lg">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/profile3.jpg" alt="React developer Mike" className="mr-3 w-auto idustries-icon-img" data-pagespeed-url-hash="3063826825" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/profile3.jpg" alt="React developer Mike" className="mr-3 w-auto idustries-icon-img" data-pagespeed-url-hash="3063826825" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <div className="ml-3">
 <h2 className="h5 font-bold">Mike</h2>
 <p>Lead React Architect</p>
@@ -141,9 +141,9 @@ Brett</a>
 front-end/back-end web, and database/server management.</p>
 <div>
 <span className="d-inline-flex align-items-center px-2 py-1 bg-dark text-white position-relative pr-3 text-14">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAADvgCD3gCD0gCD3giDzgyD1gyD0gSD0giD2giD1gSD0giD0gSD1gyD1giD0giD1gyD1giD1giD1giD1giC3rl1mAAAAFHRSTlMAECAwP0BQX2BwgI+QoK/Az9/v8KYs/BgAAABkSURBVBjTXY5BDsIgAASnRRRRRMr8/60eSCp0bzPZbBYACO3Fkqpp5qi2S2GqbLePqscjAKTmlG+guySTFu47i+kBIF8YTlEG76eoQ/xHjiGy2nNRHRtF3xvEqnFcz/uo3p/AD1LoCqFI/b8CAAAAAElFTkSuQmCC" alt="star" title="star" className="mr-2 w-auto profile-star-img" data-pagespeed-url-hash="4290969671" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAP1BMVEUAAADvgCD3gCD0gCD3giDzgyD1gyD0gSD0giD2giD1gSD0giD0gSD1gyD1giD0giD1gyD1giD1giD1giD1giC3rl1mAAAAFHRSTlMAECAwP0BQX2BwgI+QoK/Az9/v8KYs/BgAAABkSURBVBjTXY5BDsIgAASnRRRRRMr8/60eSCp0bzPZbBYACO3Fkqpp5qi2S2GqbLePqscjAKTmlG+guySTFu47i+kBIF8YTlEG76eoQ/xHjiGy2nNRHRtF3xvEqnFcz/uo3p/AD1LoCqFI/b8CAAAAAElFTkSuQmCC" alt="star" title="star" className="mr-2 w-auto profile-star-img" data-pagespeed-url-hash="4290969671" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 Expert in
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAeCAMAAAAmXq8/AAAAYFBMVEUAAAAAAAAkJCQVFRUODg4WFhYSEhIXFxcSEhIVFRUTExMREREUFBQSEhIUFBQTExMTExMUFBQTExMSEhITExMTExMUFBQUFBQTExMSEhITExMTExMTExMTExMTExMTExOlRT5OAAAAH3RSTlMAAQcMEhcdIjk+Q0lOVFlfe4CFi5CWm7e9wsfN0tj5cKdJCQAAAEtJREFUGNNdycsNgDAQxNABCqH/0uhgNl8OcQTak5/k45Yk6TlXZWCByJh7lQlCGQZlgFCGQe0glGHQGghlGPQK1vnDYBTA+XCpL7xHayRwydTknAAAAABJRU5ErkJggg==" alt="holder" className="bottom-0 left-100 position-absolute top-0 w-auto holder-img" data-pagespeed-url-hash="1845548382" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAeCAMAAAAmXq8/AAAAYFBMVEUAAAAAAAAkJCQVFRUODg4WFhYSEhIXFxcSEhIVFRUTExMREREUFBQSEhIUFBQTExMTExMUFBQTExMSEhITExMTExMUFBQUFBQTExMSEhITExMTExMTExMTExMTExMTExOlRT5OAAAAH3RSTlMAAQcMEhcdIjk+Q0lOVFlfe4CFi5CWm7e9wsfN0tj5cKdJCQAAAEtJREFUGNNdycsNgDAQxNABCqH/0uhgNl8OcQTak5/k45Yk6TlXZWCByJh7lQlCGQZlgFCGQe0glGHQGghlGPQK1vnDYBTA+XCpL7xHayRwydTknAAAAABJRU5ErkJggg==" alt="holder" className="bottom-0 left-100 position-absolute top-0 w-auto holder-img" data-pagespeed-url-hash="1845548382" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </span>
 </div>
 <div className="small-heading-two text-14">
@@ -293,7 +293,7 @@ A DEVELOPER INTERVIEW </a>
 
 <section className="section-padding pt-200 full-width-form pb-200 banner-post" id="form">
 <figure className="banner-post-img">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Hire React Developer" src="https://www.bacancytechnology.com/main-boot-5/images/xform-bg-aus.png.pagespeed.ic.gkqjeu5L4d.png" className data-pagespeed-url-hash="3272041600" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Hire React Developer" src="https://www.bacancytechnology.com/main-boot-5/images/xform-bg-aus.png.pagespeed.ic.gkqjeu5L4d.png" className data-pagespeed-url-hash="3272041600" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </figure>
 <div className="container">
 <div className="row align-items-lg-center">
@@ -387,7 +387,7 @@ Development Services</h1>
 <div className="boxed new-service-box bg-white shadow-custom">
 <div className="row gy-3 gy-lg-0 justify-content-lg-center small-heading">
 <div className="col-md-3 col-xl-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Website Migration to ReactJS" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-3.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="3850822891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Website Migration to ReactJS" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-3.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="3850822891" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-md-9 col-xl-5">
 <h5 className="text-black text-18 font-bold small-heading-two">Website Migration
@@ -406,7 +406,7 @@ losing your data.</p>
 <div className="boxed new-service-box bg-white shadow-custom">
 <div className="row gy-3 gy-lg-0 justify-content-lg-center small-heading">
 <div className="col-md-3 col-xl-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Front-End Development" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-7.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="733855279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Front-End Development" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-7.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="733855279" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-md-9 col-xl-5">
 <h5 className="text-black text-18 font-bold small-heading-two">Front-End Development
@@ -425,7 +425,7 @@ applications.</p>
 <div className="boxed new-service-box bg-white shadow-custom">
 <div className="row gy-3 gy-lg-0 justify-content-lg-center small-heading">
 <div className="col-md-3 col-xl-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="UI/UX Development" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-5.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="144855437" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="UI/UX Development" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-5.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="144855437" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-md-9 col-xl-5">
 <h5 className="text-black text-18 font-bold small-heading-two">UI/UX Development
@@ -443,7 +443,7 @@ build ReactJS applications with captivating UI/UX and interactive features.</p>
 <div className="boxed new-service-box bg-white shadow-custom">
 <div className="row gy-3 gy-lg-0 justify-content-lg-center small-heading">
 <div className="col-md-3 col-xl-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Plugin Development" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-6.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="439355358" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Plugin Development" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-6.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="439355358" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-md-9 col-xl-5">
 <h5 className="text-black text-18 font-bold small-heading-two">Plugin Development
@@ -462,7 +462,7 @@ modules.</p>
 <div className="boxed new-service-box bg-white shadow-custom">
 <div className="row gy-3 gy-lg-0 justify-content-lg-center small-heading">
 <div className="col-md-3 col-xl-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Integration" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-4.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="4145322812" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Integration" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-4.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="4145322812" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-md-9 col-xl-5">
 <h5 className="text-black text-18 font-bold small-heading-two">Integration</h5>
@@ -480,7 +480,7 @@ have proven expertise in integrating your existing web app and system with React
 <div className="boxed new-service-box bg-white shadow-custom">
 <div className="row gy-3 gy-lg-0 justify-content-lg-center small-heading">
 <div className="col-md-3 col-xl-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Support & Maintenance" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-2.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="3556322970" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Support & Maintenance" src="https://www.bacancytechnology.com/landing/images/dev-ppc/react-service-2.svg" className="w-auto service-logo-img mb-0" data-pagespeed-url-hash="3556322970" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-md-9 col-xl-5">
 <h5 className="text-black text-18 font-bold small-heading-two">Support & Maintenance
@@ -507,7 +507,7 @@ services to meet your business objectives under all the scenarios.</p>
 <div className="container">
 <div className="row gy-4 gx-4 align-items-center">
 <div className="col-lg-5">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Hire the Experienced React Developers who are Skilled in" src="images/profile5.jpg" className="skill-img w-auto" data-pagespeed-url-hash="1270675385" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Hire the Experienced React Developers who are Skilled in" src="images/profile5.jpg" className="skill-img w-auto" data-pagespeed-url-hash="1270675385" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-lg-6 offset-lg-1">
 <div className="section-title-and-desc mb-lg">
@@ -547,7 +547,7 @@ Talent</a>
 <div className="boxed bg-primary">
 <div className="row gx-4 align-items-center">
 <div className="col-3 border-right border-white border-2">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/profile6.svg" alt="Harshil" className="golang-newtheme-logo" data-pagespeed-url-hash="965172387" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/profile6.svg" alt="Harshil" className="golang-newtheme-logo" data-pagespeed-url-hash="965172387" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-9">
 <h3 className="text-white">Harshil Sanghvi</h3>
@@ -597,7 +597,7 @@ Talent</a>
 </div>
 </div>
 <div className="col-xl-7">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="National Geographic" src="https://www.bacancytechnology.com/landing/images/case-study/xcs-img-3.png.pagespeed.ic.LdXj1K7IuD.jpg" className="ob-cover" data-pagespeed-url-hash="4294400894" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="National Geographic" src="https://www.bacancytechnology.com/landing/images/case-study/xcs-img-3.png.pagespeed.ic.LdXj1K7IuD.jpg" className="ob-cover" data-pagespeed-url-hash="4294400894" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 </div>
 </div>
@@ -615,7 +615,7 @@ Talent</a>
 </div>
 </div>
 <div className="col-xl-7">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="ACR" src="https://www.bacancytechnology.com/main-boot-5/images/angular-ppc/xcase-img-1.png.pagespeed.ic.0p7ixe4FQm.jpg" className="ob-cover" data-pagespeed-url-hash="1954051059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="ACR" src="https://www.bacancytechnology.com/main-boot-5/images/angular-ppc/xcase-img-1.png.pagespeed.ic.0p7ixe4FQm.jpg" className="ob-cover" data-pagespeed-url-hash="1954051059" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 </div>
 </div>
@@ -633,7 +633,7 @@ Talent</a>
 </div>
 </div>
 <div className="col-xl-7">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="JAGZ MTB" src="https://www.bacancytechnology.com/landing/images/case-study/xjagz-3.png.pagespeed.ic.sC9K7sLB9S.png" className="ob-cover" data-pagespeed-url-hash="2603213106" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="JAGZ MTB" src="https://www.bacancytechnology.com/landing/images/case-study/xjagz-3.png.pagespeed.ic.sC9K7sLB9S.png" className="ob-cover" data-pagespeed-url-hash="2603213106" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 </div>
 </div>
@@ -651,7 +651,7 @@ Talent</a>
 </div>
 </div>
 <div className="col-xl-7">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Academy Sports & Outdoor" src="https://www.bacancytechnology.com/main-boot-5/images/angular-ppc/xcase-img-3.png.pagespeed.ic.g0_U2nnOpb.png" className="ob-cover" data-pagespeed-url-hash="2543050901" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Academy Sports & Outdoor" src="https://www.bacancytechnology.com/main-boot-5/images/angular-ppc/xcase-img-3.png.pagespeed.ic.g0_U2nnOpb.png" className="ob-cover" data-pagespeed-url-hash="2543050901" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 </div>
 </div>
@@ -687,7 +687,7 @@ Customers</span> Who Trust Us</h2>
 <span className="d-block active nav-tab-head">
 <div className="row align-items-center">
 <div className="col-4 col-lg-3">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/ceo1.jpg" alt className="idustries-icon-img" data-pagespeed-url-hash="2684817016" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/ceo1.jpg" alt className="idustries-icon-img" data-pagespeed-url-hash="2684817016" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-lg-9">
 <h4 className="text-black font-bold tab-title">John Burke</h4>
@@ -700,7 +700,7 @@ Customers</span> Who Trust Us</h2>
 <span className="d-block nav-tab-head">
 <div className="row align-items-center">
 <div className="col-4 col-lg-3">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/ceo2.jpg" alt className="idustries-icon-img" data-pagespeed-url-hash="2095817174" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/ceo2.jpg" alt className="idustries-icon-img" data-pagespeed-url-hash="2095817174" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-lg-9">
 <h4 className="text-black font-bold tab-title">Laura Odorczyk</h4>
@@ -713,7 +713,7 @@ Customers</span> Who Trust Us</h2>
 <span className="d-block nav-tab-head">
 <div className="row align-items-center">
 <div className="col-4 col-lg-3">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="images/ceo3.jpg" alt className="idustries-icon-img" data-pagespeed-url-hash="2390317095" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="images/ceo3.jpg" alt className="idustries-icon-img" data-pagespeed-url-hash="2390317095" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <div className="col-lg-9">
 <h4 className="text-black font-bold tab-title">David Carta</h4>
@@ -726,7 +726,7 @@ Customers</span> Who Trust Us</h2>
 </div>
 <div className="col-md-8">
 <div className="tab-content tab-bg-gray position-relative">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="../landing/images/profile-client/quote-orange-1.svg" alt className="quote-up counting-img-round" data-pagespeed-url-hash="3643120621" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="../landing/images/profile-client/quote-orange-1.svg" alt className="quote-up counting-img-round" data-pagespeed-url-hash="3643120621" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <div className="tab-pane top-0 p-md-4 active exp-1">
 <div className="panel panel-default">
 <div className="panel-heading">
@@ -789,7 +789,7 @@ fantastic job since our collaboration.</i></p>
 </div>
 </div>
 </div>
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="../landing/images/profile-client/quote-orange-2.svg" alt className="quote-down counting-img-round" data-pagespeed-url-hash="3937620542" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="../landing/images/profile-client/quote-orange-2.svg" alt className="quote-down counting-img-round" data-pagespeed-url-hash="3937620542" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 </div>
 </div>
@@ -821,7 +821,7 @@ Now</a>
 <div className="col-md-6 col-lg-4">
 <div className="boxed bg-white shadow-custom text-center small-heading">
 <div className="position-relative">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="one" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAE6SURBVFjD7ZbrDsMgCIV7sfbGKu//tLuJU4dC0mRbMs9Pxa9yoGrXNTU1/Zx6uwEiOlinYszo8C7gli/PuYcOy683PoYBmAMTXUZmvaVZKE8FuXfCikXAhCgTNiwCBscA8OgTjy5YBuw0sd6+asKX1tj+eH0OMNmmgyFDXr4CgDYw08DiB7bgcZZjChgo51e+Pt55F+bcnhRA0/a9YDbZ0G2PwAH8IEamj0kOZICbOhZAvRePHUlWNjQnBzBM0YKvw6uHoO94gM1rEKdtyCeY43ShFlumFgAbB6C8FgWAijCeBbDdvZ8FwNcB+ydMPF3G042kauUaQPMzVQGK31kAiAeKBBCPNAkgH6oCQHGsCwDFxVIHaK62OkC+XIELiDji9S4BxAeGCJCeODJAeGQpAPVnngrQ1PTXugIBcEVT1NImZAAAAABJRU5ErkJggg==" className="position-absolute start-0 translate-middle resons-box" data-pagespeed-url-hash="954211764" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="one" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAE6SURBVFjD7ZbrDsMgCIV7sfbGKu//tLuJU4dC0mRbMs9Pxa9yoGrXNTU1/Zx6uwEiOlinYszo8C7gli/PuYcOy683PoYBmAMTXUZmvaVZKE8FuXfCikXAhCgTNiwCBscA8OgTjy5YBuw0sd6+asKX1tj+eH0OMNmmgyFDXr4CgDYw08DiB7bgcZZjChgo51e+Pt55F+bcnhRA0/a9YDbZ0G2PwAH8IEamj0kOZICbOhZAvRePHUlWNjQnBzBM0YKvw6uHoO94gM1rEKdtyCeY43ShFlumFgAbB6C8FgWAijCeBbDdvZ8FwNcB+ydMPF3G042kauUaQPMzVQGK31kAiAeKBBCPNAkgH6oCQHGsCwDFxVIHaK62OkC+XIELiDji9S4BxAeGCJCeODJAeGQpAPVnngrQ1PTXugIBcEVT1NImZAAAAABJRU5ErkJggg==" className="position-absolute start-0 translate-middle resons-box" data-pagespeed-url-hash="954211764" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <h3 className="font-bold mb-3 mt-3">Hire <span className="text-primary">Top 1%</span> of IT Talent</h3>
 <p className="small-heading-two">Partnering with Bacancy ensures that you team up with the industry's top 1% software engineers who will work on your outsourcing web development project with great enthusiasm.</p>
@@ -830,7 +830,7 @@ Now</a>
 <div className="col-md-6 col-lg-4">
 <div className="boxed bg-white shadow-custom text-center small-heading">
 <div className="position-relative">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="two" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAF5SURBVFjD7VZLloAgDEP5KIjQ+592FkptAaXOat4bs8OYACk/pT58+PDnMLkQASBHb/u89TEDQIqr7tFrBkRyLR8ID9HUvEnAsFeduMx5CBPnoUZmDqHhYacOtuWZw9rhIV78nHs/JOzCQBcLGmzlk9dKGRyuL3zJJ6+zUhrTznUHZdAYyMzbZda6OLhqAEs95XA099N/qiM/+bnM+ap5ppLp5NeL5zEu1YCUUp5+snxCNJSjFc8WqaumYzRb4plfkqNVIqILJ1WzMkZ36Mxq4OkfWztsCpaBa5YFqYPp6i3rs/tv17XZGZa1mIFpSkdQ1b0kqsUGG687L0llsD0ksCuBQWz1uBP07wymvc733RRQH5plKQoR9bEtqqSMqKcH4ouF1NW/WMp9vXwz3ehl2/lJPzxQRvrhkTbSDw/VkX58rI/0w4tlpB9ebahPi4/0+vWyyxX1LZzoeve3erJVnh4YWWLw9MQBkcHDI0tocP/MExt8+PCv8QOSMEtV5IjPhAAAAABJRU5ErkJggg==" data-pagespeed-url-hash="1200418598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="two" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAF5SURBVFjD7VZLloAgDEP5KIjQ+592FkptAaXOat4bs8OYACk/pT58+PDnMLkQASBHb/u89TEDQIqr7tFrBkRyLR8ID9HUvEnAsFeduMx5CBPnoUZmDqHhYacOtuWZw9rhIV78nHs/JOzCQBcLGmzlk9dKGRyuL3zJJ6+zUhrTznUHZdAYyMzbZda6OLhqAEs95XA099N/qiM/+bnM+ap5ppLp5NeL5zEu1YCUUp5+snxCNJSjFc8WqaumYzRb4plfkqNVIqILJ1WzMkZ36Mxq4OkfWztsCpaBa5YFqYPp6i3rs/tv17XZGZa1mIFpSkdQ1b0kqsUGG687L0llsD0ksCuBQWz1uBP07wymvc733RRQH5plKQoR9bEtqqSMqKcH4ouF1NW/WMp9vXwz3ehl2/lJPzxQRvrhkTbSDw/VkX58rI/0w4tlpB9ebahPi4/0+vWyyxX1LZzoeve3erJVnh4YWWLw9MQBkcHDI0tocP/MExt8+PCv8QOSMEtV5IjPhAAAAABJRU5ErkJggg==" data-pagespeed-url-hash="1200418598" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <h3 className="font-bold mb-3 mt-3"><span className="text-primary">12+ Years</span> of Experience</h3>
 <p className="small-heading-two">We have 1050+ In-house software developers who are well-versed in all the emerging front-end, backend, web, mobile DevOps, QA automation, and cloud technologies.</p>
@@ -839,7 +839,7 @@ Now</a>
 <div className="col-md-6 col-lg-4">
 <div className="boxed bg-white shadow-custom text-center small-heading">
 <div className="position-relative">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="three" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAGcSURBVFjD7VbLgoUgCMVn5XWU///aWRQGZFl3NrOInYJHwCMA8Morr/w7MTFlRKx5CX2DsOR6bmDmik1KvNZjnY3S+4JCfpy6vUo9FmkQUUt113ppEPDaoHMesdqmt7VnUMy1Hj8N4ENbiwPwqa1In2knOQAbW7rIBa+cjsrAKb0hwFk5MNGNM124Lskl30KSMdCy7G++xVzXLBQBx2LK62raABh5Fr5ltQMagCJi3HI8BrsymDlAR7YQiHucOEVFZb3g1Q9PotePxvNqu7+KjjjxaBM3mY9xs/NVpKBr20UFADB+yorKqQfgFVU0Jfl3zCKguwBlLwi02U3T5wxgMnALIJ+GUKc/AuzM+i4EhvAkiQDgQ2rlJTx+xo0LSbD/GZGk1/Y7Ku9FOHz5mdp3n29/Z92HBMCooIBdqnJQAgxKmsvHdHhxZFBUbSfEJLkzKOvpwInWKO41Fo/qAlf1ww1aW1PnYLh+766D5nrSWzn1Bu29291FoxgNGD2EZJ6MOIcJ5/hPB0OWSQIi2edjnoltyovmHYpfeUXLL6cHSvfP8g9QAAAAAElFTkSuQmCC" data-pagespeed-url-hash="3312548536" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="three" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAGcSURBVFjD7VbLgoUgCMVn5XWU///aWRQGZFl3NrOInYJHwCMA8Morr/w7MTFlRKx5CX2DsOR6bmDmik1KvNZjnY3S+4JCfpy6vUo9FmkQUUt113ppEPDaoHMesdqmt7VnUMy1Hj8N4ENbiwPwqa1In2knOQAbW7rIBa+cjsrAKb0hwFk5MNGNM124Lskl30KSMdCy7G++xVzXLBQBx2LK62raABh5Fr5ltQMagCJi3HI8BrsymDlAR7YQiHucOEVFZb3g1Q9PotePxvNqu7+KjjjxaBM3mY9xs/NVpKBr20UFADB+yorKqQfgFVU0Jfl3zCKguwBlLwi02U3T5wxgMnALIJ+GUKc/AuzM+i4EhvAkiQDgQ2rlJTx+xo0LSbD/GZGk1/Y7Ku9FOHz5mdp3n29/Z92HBMCooIBdqnJQAgxKmsvHdHhxZFBUbSfEJLkzKOvpwInWKO41Fo/qAlf1ww1aW1PnYLh+766D5nrSWzn1Bu29291FoxgNGD2EZJ6MOIcJ5/hPB0OWSQIi2edjnoltyovmHYpfeUXLL6cHSvfP8g9QAAAAAElFTkSuQmCC" data-pagespeed-url-hash="3312548536" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <h3 className="font-bold mb-3 mt-3">Work at <span className="text-primary">Your Time Zone</span></h3>
 <p className="small-heading-two">We follow one very simple principle – our developers and your time zone. Get dedicated software developers from us and make collaboration in a faraway place to work according to your time zone, deadline, and milestone.</p>
@@ -848,7 +848,7 @@ Now</a>
 <div className="col-md-6 col-lg-4">
 <div className="boxed bg-white shadow-custom text-center small-heading">
 <div className="position-relative">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="four" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAFiSURBVFjD7ZbJkoUgDEVREcGB5P+/thcSmxcShrfqqvbupMjJKGDMq1ev/pwmt5+ICGdYq/t2vMXNPeCj6HR7hyLARvzQtSj2M4gAh1ygEC6UACtiJyGgBJhBAGCcSvvcU7Z80FpYjLH781U2CkSAZUE/BZk54EQRQAFstODTws7s0zowwEw5F5HCZxVSpHAwwJYArqy1kwqweQagxDJ3i5RDcnwYDqDZyzdHntUTKEzkkfcgCN6yPlBQ1nCA4z3I+2CfAsRfNwxQ7BWpR5YnA+wSgPLyn8B71BiAmrBUAAvkASkAaWbwuAtw5V9DgDOfKxrMYQD9w6sxX6VAp0UwdYBaxFSAa1IArTaGwsHYINlyUMdGOWJNvv0znU1A43f2bUD9QFnbgPqRNrcBjUPVgW6fLoLuY11u48jFogD6rzYN0H+5KoCB610BDDwwFED/E0cD9D+yNED/M08FvHr1r/UDN55LVo/UYfUAAAAASUVORK5CYII=" data-pagespeed-url-hash="4125080414" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="four" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAFiSURBVFjD7ZbJkoUgDEVREcGB5P+/thcSmxcShrfqqvbupMjJKGDMq1ev/pwmt5+ICGdYq/t2vMXNPeCj6HR7hyLARvzQtSj2M4gAh1ygEC6UACtiJyGgBJhBAGCcSvvcU7Z80FpYjLH781U2CkSAZUE/BZk54EQRQAFstODTws7s0zowwEw5F5HCZxVSpHAwwJYArqy1kwqweQagxDJ3i5RDcnwYDqDZyzdHntUTKEzkkfcgCN6yPlBQ1nCA4z3I+2CfAsRfNwxQ7BWpR5YnA+wSgPLyn8B71BiAmrBUAAvkASkAaWbwuAtw5V9DgDOfKxrMYQD9w6sxX6VAp0UwdYBaxFSAa1IArTaGwsHYINlyUMdGOWJNvv0znU1A43f2bUD9QFnbgPqRNrcBjUPVgW6fLoLuY11u48jFogD6rzYN0H+5KoCB610BDDwwFED/E0cD9D+yNED/M08FvHr1r/UDN55LVo/UYfUAAAAASUVORK5CYII=" data-pagespeed-url-hash="4125080414" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <h3 className="font-bold mb-3 mt-3">On board in <span className="text-primary">48 hours</span></h3>
 <p className="small-heading-two">We'll introduce you to the right project manager for your project. To further understand your needs, we'll arrange a call. You can hire our developers within 48 Hours.</p>
@@ -857,7 +857,7 @@ Now</a>
 <div className="col-md-6 col-lg-4">
 <div className="boxed bg-white shadow-custom text-center small-heading">
 <div className="position-relative">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="five" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAGHSURBVFjD7VbLgsAQDEzRKvXI/3/tHrZUCM3e9tC5VXQwGQmADx8+/Dtshw+ImIPbx+CJIwL9/cxPKB09gX8jMIkGo6YE4YXgGKKZMuCaYGfChEFzBGcNq8zF0/aygqrhq4w5DWCqXm6VhOyf/0236SqI6jSMEwOUDdh+PV+npO6bQJUzP564NckbTYLlCexN0JjHdUP3IQ1PUDyyjVnzdI2JBMV77Viip3IrDc2YtEdX1W4yhYiImC6rgHGx5S6fmRg56OlcjlUtfew5AkOmGc7pvk+CnhNw1eQRrRCwyl7EFh2MgOC+8uq4MPtDA4C2tfQkOQEAbEx5M9IjzG6fk4o4u35RmsYBsd21wEgDXEsgsfKszYgv05JAcp2XR5AUlEkNiuKS1rdhyi8pqrwEu7Ss64hXI6fO3YpvjWWLiJirp3QaDvjS2m5F0qmhDTdpWzfXna8GpHsv27vnCWiGlg8MrqLl/h21fOLo4YETRo+vH1mGUIT97888UL9RjF1f+vDhwy9+AHkOSoGgJj77AAAAAElFTkSuQmCC" data-pagespeed-url-hash="3506576798" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="five" className="position-absolute start-0 translate-middle resons-box" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABCCAMAAADQfyDnAAAAM1BMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaGhoXFxcVFRUSEhIQEBAeHh4aGhoXFxcdHR2Yg5j9AAAAEXRSTlMAAQIDBAYHCAoLDA4QERQWGuuEL4EAAAGHSURBVFjD7VbLgsAQDEzRKvXI/3/tHrZUCM3e9tC5VXQwGQmADx8+/Dtshw+ImIPbx+CJIwL9/cxPKB09gX8jMIkGo6YE4YXgGKKZMuCaYGfChEFzBGcNq8zF0/aygqrhq4w5DWCqXm6VhOyf/0236SqI6jSMEwOUDdh+PV+npO6bQJUzP564NckbTYLlCexN0JjHdUP3IQ1PUDyyjVnzdI2JBMV77Viip3IrDc2YtEdX1W4yhYiImC6rgHGx5S6fmRg56OlcjlUtfew5AkOmGc7pvk+CnhNw1eQRrRCwyl7EFh2MgOC+8uq4MPtDA4C2tfQkOQEAbEx5M9IjzG6fk4o4u35RmsYBsd21wEgDXEsgsfKszYgv05JAcp2XR5AUlEkNiuKS1rdhyi8pqrwEu7Ss64hXI6fO3YpvjWWLiJirp3QaDvjS2m5F0qmhDTdpWzfXna8GpHsv27vnCWiGlg8MrqLl/h21fOLo4YETRo+vH1mGUIT97888UL9RjF1f+vDhwy9+AHkOSoGgJj77AAAAAElFTkSuQmCC" data-pagespeed-url-hash="3506576798" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 <h3 className="font-bold mb-3 mt-3"><span className="text-primary">15 Days</span> Risk-Free Trial</h3>
 <p className="small-heading-two">We allow this free time period to evaluate the code quality, communication, on-time delivery, Agile software development process, and more of the hired trial resource.</p>
@@ -929,7 +929,7 @@ accomplish clear business results with our communication and team culture.</p>
 
 <section className="section-padding section-padding-md banner-post bg-white resp-row">
 <figure className="banner-post-img">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Our Development Center Strength" src="https://www.bacancytechnology.com/main-boot-5/images/react-ppc-22/xdot-bg.png.pagespeed.ic.-R_ENwheW3.png" className data-pagespeed-url-hash="2026396024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Our Development Center Strength" src="https://www.bacancytechnology.com/main-boot-5/images/react-ppc-22/xdot-bg.png.pagespeed.ic.-R_ENwheW3.png" className data-pagespeed-url-hash="2026396024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </figure>
 <div className="container">
 <div className="row">
@@ -973,29 +973,29 @@ accomplish clear business results with our communication and team culture.</p>
 </div>
 </div>
 <div className="col-lg-6">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Our Development Center Strength" src="https://www.bacancytechnology.com/main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.-FzoSawk4P.jpg" className="ob-cover" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Our Development Center Strength" src="https://www.bacancytechnology.com/main-boot-5/images/engagement-model/xside-img-5.jpg.pagespeed.ic.-FzoSawk4P.jpg" className="ob-cover" data-pagespeed-url-hash="962442249" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </div>
 </div>
 <div className="row gy-4 gy-lg-0 text-center count-bottom justify-content-center">
 <div className="col-6 col-lg">
 
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Easy Communication" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACRlBMVEUAAAAAAAAAAABVVVXMzMwkJCQuLi4zMzMQEBBAQECHh4dHR0cmJiazs7MsLCyKioopKSmzs7NEREQdHR13d3c1NTU9PT0TExNDQ0MgICAYGBiEhIQ6OjonJyeJiYlDQ0MsLCwiIiKEhIQ2NjYnJyd6enp+fn6BgYFPT08lJSUWFhYWFhaFhYUwMDCFhYWEhIS0tLQfHx9FRUVCQkIXFxczMzN5eXkWFhYYGBh+fn57e3uAgIA/Pz+zs7MaGhqQkJCTk5OXl5ecnJygoKClpaWIiIgsLCxGRkaDg4M5OTmLi4sdHR08PDyEhIQhISFGRkZDQ0McHBxbW1tGRkYpKSkuLi5AQECIiIg1NTW0tLQjIyNGRkYWFhZ3d3czMzMwMDBDQ0MnJyc6OjpGRkaQkJA8PDwfHx9HR0e0tLQlJSUbGxtAQEC0tLQWFhYXFxcYGBgZGRkaGhobGxscHBwdHR0fHx8gICAhISEjIyMlJSUnJycpKSkqKiosLCwtLS0uLi4vLy8wMDAyMjIzMzM2NjY5OTk6Ojo7Ozs8PDw9PT0+Pj5AQEBDQ0NISEhNTU1VVVVWVlZXV1dbW1tdXV1gYGBiYmJqampra2tsbGxtbW1wcHB0dHR5eXl7e3t9fX1+fn5/f3+AgICBgYGDg4OEhISIiIiJiYmKioqMjIyNjY2Pj4+QkJCTk5OUlJSVlZWYmJiZmZmampqbm5ucnJygoKChoaGioqKkpKSlpaWnp6eoqKipqamqqqqrq6uurq6xsbGzs7O0tLQ7AomgAAAAbXRSTlMAAQIDBQcLDxAQERIUFBclLC88PT4/P0NFSElNVFtbZ2hqanJ1d3d3eHx9f4KFhoeIjY2Oj5CSlJaWl5eam52ep6enp6etr6+vs7a7v7/Jyc3Oz93e4+Tk5eru7vLy8/T1+Pj4+Pn7/Pz9/v7+GplO9gAAAdhJREFUOMtjYIAAbnn34OT0aH8jIQbcgNM4oQcGAiRwqRIL60YC2TasWFXJpHagAh82LKpEk1rRgScThir2iBZMoIyhzLQZBjr74Mw4PjRVPPGNUNC0+eAkGLtRF02ZQj0MTDp4cHMDjBPKiKrMrRYM2ifO2Hbw4MGFU/vqIAICqMpCqkGgYe9BGJgGFqiWRVWWWAUCNRthqg70gwWqVFCVZVaCQSNU3YHJEH6lJqqyqAoIaIMoWwTlViiiKvMrh4BeiLJVUG65JKoyw1IImHLw4H6gX3dBuWkcqMqESyCge/u8ptKJmxdAud5owcsYWIwNaAgiAC9InVRWESboPHAQATJsWYDq7AoxQPmmgyjAAKjMogAdFC9GVXUwkoHRPB8dlKKrOpjDYIKhqnXDfgzAEJOHAgq6FuzDAhjEtRFAK2j+lj1AsHr27j07Z63bs2f5nD0QgBqILjvAoC537o6Zue07dpTlLoOIoCpz3goGU9rXbl3ZOn3r1gndGyEiqMqcNuMAqMoc1+MAqMoc1uAAqMrsV2MHKajK5FZgB16oyphdl2ID4fzoqU9aRx8OPJaAgK+eEhcDPsBovQgI1BkIAUbL+fPnqzEQVmc1d64qAxHqzGJFQDQAFiTi1M2HWOMAAAAASUVORK5CYII=" className="counting-img mb-lg" data-pagespeed-url-hash="774465708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Easy Communication" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACRlBMVEUAAAAAAAAAAABVVVXMzMwkJCQuLi4zMzMQEBBAQECHh4dHR0cmJiazs7MsLCyKioopKSmzs7NEREQdHR13d3c1NTU9PT0TExNDQ0MgICAYGBiEhIQ6OjonJyeJiYlDQ0MsLCwiIiKEhIQ2NjYnJyd6enp+fn6BgYFPT08lJSUWFhYWFhaFhYUwMDCFhYWEhIS0tLQfHx9FRUVCQkIXFxczMzN5eXkWFhYYGBh+fn57e3uAgIA/Pz+zs7MaGhqQkJCTk5OXl5ecnJygoKClpaWIiIgsLCxGRkaDg4M5OTmLi4sdHR08PDyEhIQhISFGRkZDQ0McHBxbW1tGRkYpKSkuLi5AQECIiIg1NTW0tLQjIyNGRkYWFhZ3d3czMzMwMDBDQ0MnJyc6OjpGRkaQkJA8PDwfHx9HR0e0tLQlJSUbGxtAQEC0tLQWFhYXFxcYGBgZGRkaGhobGxscHBwdHR0fHx8gICAhISEjIyMlJSUnJycpKSkqKiosLCwtLS0uLi4vLy8wMDAyMjIzMzM2NjY5OTk6Ojo7Ozs8PDw9PT0+Pj5AQEBDQ0NISEhNTU1VVVVWVlZXV1dbW1tdXV1gYGBiYmJqampra2tsbGxtbW1wcHB0dHR5eXl7e3t9fX1+fn5/f3+AgICBgYGDg4OEhISIiIiJiYmKioqMjIyNjY2Pj4+QkJCTk5OUlJSVlZWYmJiZmZmampqbm5ucnJygoKChoaGioqKkpKSlpaWnp6eoqKipqamqqqqrq6uurq6xsbGzs7O0tLQ7AomgAAAAbXRSTlMAAQIDBQcLDxAQERIUFBclLC88PT4/P0NFSElNVFtbZ2hqanJ1d3d3eHx9f4KFhoeIjY2Oj5CSlJaWl5eam52ep6enp6etr6+vs7a7v7/Jyc3Oz93e4+Tk5eru7vLy8/T1+Pj4+Pn7/Pz9/v7+GplO9gAAAdhJREFUOMtjYIAAbnn34OT0aH8jIQbcgNM4oQcGAiRwqRIL60YC2TasWFXJpHagAh82LKpEk1rRgScThir2iBZMoIyhzLQZBjr74Mw4PjRVPPGNUNC0+eAkGLtRF02ZQj0MTDp4cHMDjBPKiKrMrRYM2ifO2Hbw4MGFU/vqIAICqMpCqkGgYe9BGJgGFqiWRVWWWAUCNRthqg70gwWqVFCVZVaCQSNU3YHJEH6lJqqyqAoIaIMoWwTlViiiKvMrh4BeiLJVUG65JKoyw1IImHLw4H6gX3dBuWkcqMqESyCge/u8ptKJmxdAud5owcsYWIwNaAgiAC9InVRWESboPHAQATJsWYDq7AoxQPmmgyjAAKjMogAdFC9GVXUwkoHRPB8dlKKrOpjDYIKhqnXDfgzAEJOHAgq6FuzDAhjEtRFAK2j+lj1AsHr27j07Z63bs2f5nD0QgBqILjvAoC537o6Zue07dpTlLoOIoCpz3goGU9rXbl3ZOn3r1gndGyEiqMqcNuMAqMoc1+MAqMoc1uAAqMrsV2MHKajK5FZgB16oyphdl2ID4fzoqU9aRx8OPJaAgK+eEhcDPsBovQgI1BkIAUbL+fPnqzEQVmc1d64qAxHqzGJFQDQAFiTi1M2HWOMAAAAASUVORK5CYII=" className="counting-img mb-lg" data-pagespeed-url-hash="774465708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <p className="text-18">Work at Your Time Zone</p>
 </div>
 <div className="col-6 col-lg">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Easy Communication" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACRlBMVEUAAAAAAAAAAABVVVXMzMwkJCQuLi4zMzMQEBBAQECHh4dHR0cmJiazs7MsLCyKioopKSmzs7NEREQdHR13d3c1NTU9PT0TExNDQ0MgICAYGBiEhIQ6OjonJyeJiYlDQ0MsLCwiIiKEhIQ2NjYnJyd6enp+fn6BgYFPT08lJSUWFhYWFhaFhYUwMDCFhYWEhIS0tLQfHx9FRUVCQkIXFxczMzN5eXkWFhYYGBh+fn57e3uAgIA/Pz+zs7MaGhqQkJCTk5OXl5ecnJygoKClpaWIiIgsLCxGRkaDg4M5OTmLi4sdHR08PDyEhIQhISFGRkZDQ0McHBxbW1tGRkYpKSkuLi5AQECIiIg1NTW0tLQjIyNGRkYWFhZ3d3czMzMwMDBDQ0MnJyc6OjpGRkaQkJA8PDwfHx9HR0e0tLQlJSUbGxtAQEC0tLQWFhYXFxcYGBgZGRkaGhobGxscHBwdHR0fHx8gICAhISEjIyMlJSUnJycpKSkqKiosLCwtLS0uLi4vLy8wMDAyMjIzMzM2NjY5OTk6Ojo7Ozs8PDw9PT0+Pj5AQEBDQ0NISEhNTU1VVVVWVlZXV1dbW1tdXV1gYGBiYmJqampra2tsbGxtbW1wcHB0dHR5eXl7e3t9fX1+fn5/f3+AgICBgYGDg4OEhISIiIiJiYmKioqMjIyNjY2Pj4+QkJCTk5OUlJSVlZWYmJiZmZmampqbm5ucnJygoKChoaGioqKkpKSlpaWnp6eoqKipqamqqqqrq6uurq6xsbGzs7O0tLQ7AomgAAAAbXRSTlMAAQIDBQcLDxAQERIUFBclLC88PT4/P0NFSElNVFtbZ2hqanJ1d3d3eHx9f4KFhoeIjY2Oj5CSlJaWl5eam52ep6enp6etr6+vs7a7v7/Jyc3Oz93e4+Tk5eru7vLy8/T1+Pj4+Pn7/Pz9/v7+GplO9gAAAdhJREFUOMtjYIAAbnn34OT0aH8jIQbcgNM4oQcGAiRwqRIL60YC2TasWFXJpHagAh82LKpEk1rRgScThir2iBZMoIyhzLQZBjr74Mw4PjRVPPGNUNC0+eAkGLtRF02ZQj0MTDp4cHMDjBPKiKrMrRYM2ifO2Hbw4MGFU/vqIAICqMpCqkGgYe9BGJgGFqiWRVWWWAUCNRthqg70gwWqVFCVZVaCQSNU3YHJEH6lJqqyqAoIaIMoWwTlViiiKvMrh4BeiLJVUG65JKoyw1IImHLw4H6gX3dBuWkcqMqESyCge/u8ptKJmxdAud5owcsYWIwNaAgiAC9InVRWESboPHAQATJsWYDq7AoxQPmmgyjAAKjMogAdFC9GVXUwkoHRPB8dlKKrOpjDYIKhqnXDfgzAEJOHAgq6FuzDAhjEtRFAK2j+lj1AsHr27j07Z63bs2f5nD0QgBqILjvAoC537o6Zue07dpTlLoOIoCpz3goGU9rXbl3ZOn3r1gndGyEiqMqcNuMAqMoc1+MAqMoc1uAAqMrsV2MHKajK5FZgB16oyphdl2ID4fzoqU9aRx8OPJaAgK+eEhcDPsBovQgI1BkIAUbL+fPnqzEQVmc1d64qAxHqzGJFQDQAFiTi1M2HWOMAAAAASUVORK5CYII=" className="counting-img mb-lg" data-pagespeed-url-hash="774465708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Easy Communication" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACRlBMVEUAAAAAAAAAAABVVVXMzMwkJCQuLi4zMzMQEBBAQECHh4dHR0cmJiazs7MsLCyKioopKSmzs7NEREQdHR13d3c1NTU9PT0TExNDQ0MgICAYGBiEhIQ6OjonJyeJiYlDQ0MsLCwiIiKEhIQ2NjYnJyd6enp+fn6BgYFPT08lJSUWFhYWFhaFhYUwMDCFhYWEhIS0tLQfHx9FRUVCQkIXFxczMzN5eXkWFhYYGBh+fn57e3uAgIA/Pz+zs7MaGhqQkJCTk5OXl5ecnJygoKClpaWIiIgsLCxGRkaDg4M5OTmLi4sdHR08PDyEhIQhISFGRkZDQ0McHBxbW1tGRkYpKSkuLi5AQECIiIg1NTW0tLQjIyNGRkYWFhZ3d3czMzMwMDBDQ0MnJyc6OjpGRkaQkJA8PDwfHx9HR0e0tLQlJSUbGxtAQEC0tLQWFhYXFxcYGBgZGRkaGhobGxscHBwdHR0fHx8gICAhISEjIyMlJSUnJycpKSkqKiosLCwtLS0uLi4vLy8wMDAyMjIzMzM2NjY5OTk6Ojo7Ozs8PDw9PT0+Pj5AQEBDQ0NISEhNTU1VVVVWVlZXV1dbW1tdXV1gYGBiYmJqampra2tsbGxtbW1wcHB0dHR5eXl7e3t9fX1+fn5/f3+AgICBgYGDg4OEhISIiIiJiYmKioqMjIyNjY2Pj4+QkJCTk5OUlJSVlZWYmJiZmZmampqbm5ucnJygoKChoaGioqKkpKSlpaWnp6eoqKipqamqqqqrq6uurq6xsbGzs7O0tLQ7AomgAAAAbXRSTlMAAQIDBQcLDxAQERIUFBclLC88PT4/P0NFSElNVFtbZ2hqanJ1d3d3eHx9f4KFhoeIjY2Oj5CSlJaWl5eam52ep6enp6etr6+vs7a7v7/Jyc3Oz93e4+Tk5eru7vLy8/T1+Pj4+Pn7/Pz9/v7+GplO9gAAAdhJREFUOMtjYIAAbnn34OT0aH8jIQbcgNM4oQcGAiRwqRIL60YC2TasWFXJpHagAh82LKpEk1rRgScThir2iBZMoIyhzLQZBjr74Mw4PjRVPPGNUNC0+eAkGLtRF02ZQj0MTDp4cHMDjBPKiKrMrRYM2ifO2Hbw4MGFU/vqIAICqMpCqkGgYe9BGJgGFqiWRVWWWAUCNRthqg70gwWqVFCVZVaCQSNU3YHJEH6lJqqyqAoIaIMoWwTlViiiKvMrh4BeiLJVUG65JKoyw1IImHLw4H6gX3dBuWkcqMqESyCge/u8ptKJmxdAud5owcsYWIwNaAgiAC9InVRWESboPHAQATJsWYDq7AoxQPmmgyjAAKjMogAdFC9GVXUwkoHRPB8dlKKrOpjDYIKhqnXDfgzAEJOHAgq6FuzDAhjEtRFAK2j+lj1AsHr27j07Z63bs2f5nD0QgBqILjvAoC537o6Zue07dpTlLoOIoCpz3goGU9rXbl3ZOn3r1gndGyEiqMqcNuMAqMoc1+MAqMoc1uAAqMrsV2MHKajK5FZgB16oyphdl2ID4fzoqU9aRx8OPJaAgK+eEhcDPsBovQgI1BkIAUbL+fPnqzEQVmc1d64qAxHqzGJFQDQAFiTi1M2HWOMAAAAASUVORK5CYII=" className="counting-img mb-lg" data-pagespeed-url-hash="774465708" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <p className="text-18">Easy Communication</p>
 </div>
 <div className="col-6 col-lg">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="Hire in 48 Hours" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACfFBMVEUAAAAAAAAcHBwaGhp0dHQVFRVqamoUFBQnJycSEhIwMDAvLy9ycnIzMzNubm53d3d4eHg+Pj48PDyAgIBAQEAwMDA+Pj42NjZ0dHRXV1dycnJ3d3d6enp4eHh9fX2CgoKAgIB9fX07Ozs/Pz8+Pj5cXFxaWlp+fn6BgYEeHh4dHR1CQkJxcXFERERvb29+fn53d3dfX19hYWF4eHh2dnZ5eXl5eXkgICAgICAfHx8iIiJycnJxcXGAgIB+fn53d3cwMDB2dnZ3d3d5eXl6eno2NjY3NzcaGhobGxs9PT0xMTE9PT0xMTF5eXl5eXk0NDSBgYFDQ0NpaWkxMTFpaWkwMDCAgIAfHx8fHx8+Pj4/Pz9qamqBgYGAgIA4ODg3NzdDQ0MiIiJra2tqamo8PDwwMDAcHBwfHx8cHBweHh50dHQhISF9fX0yMjIzMzMzMzMhISFEREQhISE5OTk6OjqBgYGCgoJ1dXV0dHR9fX2CgoJ9fX2BgYFBQUFycnJAQECAgICCgoJBQUF/f3+BgYFCQkJra2tsbGxra2tsbGxycnJzc3N1dXVsbGx8fHx9fX2AgIAxMTFsbGx/f39EREQiIiIgICAhISE2NjY3NzdycnIbGxsgICAhISF/f38bGxshISE+Pj6AgIAcHBwdHR0eHh4fHx8gICAhISEiIiIyMjIzMzM0NDQ1NTU2NjY3Nzc4ODg5OTk6Ojo7Ozs8PDw9PT0+Pj4/Pz9BQUFCQkJDQ0NHR0dISEhJSUlKSkpMTExQUFBTU1NbW1tdXV1oaGhpaWlycnJ0dHR2dnZ5eXl7e3t9fX1/f3+Ojo6bm5ugoKCkpKSnp6erq6uurq4sUymsAAAAo3RSTlMAAQkKCwwMDQ0OEBsdHh4eICEiIiQlJSYuLy8vMDExMTIzODk6PT5DQ0VGRkZHR0lNTk9RUlJUV1hiYmJjZmdtcHN0dHWAg4uMj5KSk5OUnKKjrK2trq+ztLm5ubq7wMHDxMTFycrOzs/P0NHS1tfY3d3e4ePl5ujp6err6+3t7u7u7+/v8PDx9fb29/f4+Pj4+fn5+vv8/Pz8/P39/f3+/v7+ZhlY7wAAAeNJREFUOMtjYEAF2oGFU6YUBuoy4AMiCbugIEEMtyqV1p1w0KSMS5VQ7Q4kUC+IQ1nUdjA4chRCR2JXpbRwGwjsuXx5D5ixTQmrMu+tYLDv0qV9EJYnVmUpW8Bg78WLhw/uB7FSsCor2QQGuy+AwCEgqwSrsuKNYLDl7Pnz588dALKKsSqL3wABGzdv3rwJxIjDqsxtPRpwxapMfOY6FDBDFHvA+a9FAf44YoErfw0SyOPCFam8uavhIJcXdxLh8Jq4Cgwm+nDgTXHcDqGpqcEO3Ay0B+oxLaUBwmCmQlhNVZg8mCkcUNYYq4FQZbvoDBA0yAGZ+hNAzMn6QKZcM4g5zw6mSqD/NBjkMDKwVUOYlWwMjDkQZh8/VJnLKSiQYTCDMU0ZFGFMF6gyv5NQYMDgDGPaMxjAmL5QZU4noECawQTGNGaQhTEdocr4eo6DQRYjA0sFhFnOwsCYBWH28MD8YDPrGBDUSQCZOt0gZpcekClVB2LOsoYHCLtR0qS2IElmIJNVLbqzI1qVFchkkgxp70025IQqMi9asBIMpiZaZk+HMOdmWyVOhTAXFFiAVGnNWUEATNMEKotYThCEA5WlLyMI0oHKMpcSBJnEK8tYQhBkAJWlLSYIQMo8ZhNSNd+dAQCYq/dixbV50AAAAABJRU5ErkJggg==" className="counting-img mb-lg" data-pagespeed-url-hash="1068965629" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Hire in 48 Hours" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACfFBMVEUAAAAAAAAcHBwaGhp0dHQVFRVqamoUFBQnJycSEhIwMDAvLy9ycnIzMzNubm53d3d4eHg+Pj48PDyAgIBAQEAwMDA+Pj42NjZ0dHRXV1dycnJ3d3d6enp4eHh9fX2CgoKAgIB9fX07Ozs/Pz8+Pj5cXFxaWlp+fn6BgYEeHh4dHR1CQkJxcXFERERvb29+fn53d3dfX19hYWF4eHh2dnZ5eXl5eXkgICAgICAfHx8iIiJycnJxcXGAgIB+fn53d3cwMDB2dnZ3d3d5eXl6eno2NjY3NzcaGhobGxs9PT0xMTE9PT0xMTF5eXl5eXk0NDSBgYFDQ0NpaWkxMTFpaWkwMDCAgIAfHx8fHx8+Pj4/Pz9qamqBgYGAgIA4ODg3NzdDQ0MiIiJra2tqamo8PDwwMDAcHBwfHx8cHBweHh50dHQhISF9fX0yMjIzMzMzMzMhISFEREQhISE5OTk6OjqBgYGCgoJ1dXV0dHR9fX2CgoJ9fX2BgYFBQUFycnJAQECAgICCgoJBQUF/f3+BgYFCQkJra2tsbGxra2tsbGxycnJzc3N1dXVsbGx8fHx9fX2AgIAxMTFsbGx/f39EREQiIiIgICAhISE2NjY3NzdycnIbGxsgICAhISF/f38bGxshISE+Pj6AgIAcHBwdHR0eHh4fHx8gICAhISEiIiIyMjIzMzM0NDQ1NTU2NjY3Nzc4ODg5OTk6Ojo7Ozs8PDw9PT0+Pj4/Pz9BQUFCQkJDQ0NHR0dISEhJSUlKSkpMTExQUFBTU1NbW1tdXV1oaGhpaWlycnJ0dHR2dnZ5eXl7e3t9fX1/f3+Ojo6bm5ugoKCkpKSnp6erq6uurq4sUymsAAAAo3RSTlMAAQkKCwwMDQ0OEBsdHh4eICEiIiQlJSYuLy8vMDExMTIzODk6PT5DQ0VGRkZHR0lNTk9RUlJUV1hiYmJjZmdtcHN0dHWAg4uMj5KSk5OUnKKjrK2trq+ztLm5ubq7wMHDxMTFycrOzs/P0NHS1tfY3d3e4ePl5ujp6err6+3t7u7u7+/v8PDx9fb29/f4+Pj4+fn5+vv8/Pz8/P39/f3+/v7+ZhlY7wAAAeNJREFUOMtjYEAF2oGFU6YUBuoy4AMiCbugIEEMtyqV1p1w0KSMS5VQ7Q4kUC+IQ1nUdjA4chRCR2JXpbRwGwjsuXx5D5ixTQmrMu+tYLDv0qV9EJYnVmUpW8Bg78WLhw/uB7FSsCor2QQGuy+AwCEgqwSrsuKNYLDl7Pnz588dALKKsSqL3wABGzdv3rwJxIjDqsxtPRpwxapMfOY6FDBDFHvA+a9FAf44YoErfw0SyOPCFam8uavhIJcXdxLh8Jq4Cgwm+nDgTXHcDqGpqcEO3Ay0B+oxLaUBwmCmQlhNVZg8mCkcUNYYq4FQZbvoDBA0yAGZ+hNAzMn6QKZcM4g5zw6mSqD/NBjkMDKwVUOYlWwMjDkQZh8/VJnLKSiQYTCDMU0ZFGFMF6gyv5NQYMDgDGPaMxjAmL5QZU4noECawQTGNGaQhTEdocr4eo6DQRYjA0sFhFnOwsCYBWH28MD8YDPrGBDUSQCZOt0gZpcekClVB2LOsoYHCLtR0qS2IElmIJNVLbqzI1qVFchkkgxp70025IQqMi9asBIMpiZaZk+HMOdmWyVOhTAXFFiAVGnNWUEATNMEKotYThCEA5WlLyMI0oHKMpcSBJnEK8tYQhBkAJWlLSYIQMo8ZhNSNd+dAQCYq/dixbV50AAAAABJRU5ErkJggg==" className="counting-img mb-lg" data-pagespeed-url-hash="1068965629" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <p className="text-18">Hire in 48 Hours</p>
 </div>
 <div className="col-6 col-lg">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="In Business Since 2011" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAABg1BMVEUAAAD///+/v78kJCTGxsbMzMwnJyckJCSbm5ufn5/MzMzOzs7Hx8fJycmIiIiAgICxsbGurq55eXl3d3d9fX17e3t+fn6AgIApKSkpKSmJiYkqKirExMQrKyvExMTIyMjJycmKiooqKiopKSmCgoKgoKCgoKAuLi6FhYUtLS0uLi4vLy8yMjI1NTU2NjY4ODg6Ojo8PDw+Pj4/Pz9BQUFEREQpKSkpKSlkZGSDg4N7e3t6enqBgYGBgYGCgoKCgoK/v7+AgIDJycl6enqHh4egoKCjo6O7u7sqKiorKystLS0uLi4wMDAyMjI0NDQ2NjY4ODg7Ozs9PT0/Pz9CQkJDQ0NFRUVGRkZHR0dOTk5QUFBRUVFUVFRVVVVbW1tcXFxjY2NnZ2dqampubm5zc3N6enp9fX1+fn6AgICGhoaHh4eMjIyNjY2QkJCRkZGXl5eYmJiZmZmcnJyenp6fn5+goKCioqKmpqaqqqqtra2urq6ysrK2tra7u7vAwMDExMTJycm+spRwAAAASHRSTlMAAgQHCQoNDhcYHh8gISssLi85Oj0+UVJjZG6AgYKCjI6Qk5epubq+vsDHx8fHx8fHx8fHx8fLzNLT1NXV2t3e6Pb4+f7+/v4QLPvpAAABNElEQVQ4y+WSPU8CQRCGn/2AQ06lMCokhoKIBmhoaP0v/jD/jJWdGnMaNVIYExI1JCLycZfdtUATOOHuOgqn2nnnycy+OwtrCBEXtjc9psNBMlaqHNSBx5feRwK23zwm6FFpcR+8rsR22rXg4R3YPWp2L/tzFQ3a+znLRv32LvSBUaAboxs3k10UIWS1dpJi8/zpWVRPM7zHma65DNih9rJgnu5kwTraZVpWHHMDC6it2Ha0Xcy/ZtuUxeRu+ZwFZD4mK7+8kMui7/t+MTbzSqlxOd3BhaDQbqlcXqwAXBiZ4HqsmZhPQGullFJS/paNMcbYyDgwYzQ4C4Th7F8pIQXOOjPnwYEGN6/YZYP/YEvDggabhmXs9n8wAxqGadgQFExLhUSq3zUIQO1tiNUXG70Z1hPfpsh9dSOgiiIAAAAASUVORK5CYII=" className="counting-img mb-lg" data-pagespeed-url-hash="479965787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="In Business Since 2011" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAABg1BMVEUAAAD///+/v78kJCTGxsbMzMwnJyckJCSbm5ufn5/MzMzOzs7Hx8fJycmIiIiAgICxsbGurq55eXl3d3d9fX17e3t+fn6AgIApKSkpKSmJiYkqKirExMQrKyvExMTIyMjJycmKiooqKiopKSmCgoKgoKCgoKAuLi6FhYUtLS0uLi4vLy8yMjI1NTU2NjY4ODg6Ojo8PDw+Pj4/Pz9BQUFEREQpKSkpKSlkZGSDg4N7e3t6enqBgYGBgYGCgoKCgoK/v7+AgIDJycl6enqHh4egoKCjo6O7u7sqKiorKystLS0uLi4wMDAyMjI0NDQ2NjY4ODg7Ozs9PT0/Pz9CQkJDQ0NFRUVGRkZHR0dOTk5QUFBRUVFUVFRVVVVbW1tcXFxjY2NnZ2dqampubm5zc3N6enp9fX1+fn6AgICGhoaHh4eMjIyNjY2QkJCRkZGXl5eYmJiZmZmcnJyenp6fn5+goKCioqKmpqaqqqqtra2urq6ysrK2tra7u7vAwMDExMTJycm+spRwAAAASHRSTlMAAgQHCQoNDhcYHh8gISssLi85Oj0+UVJjZG6AgYKCjI6Qk5epubq+vsDHx8fHx8fHx8fHx8fLzNLT1NXV2t3e6Pb4+f7+/v4QLPvpAAABNElEQVQ4y+WSPU8CQRCGn/2AQ06lMCokhoKIBmhoaP0v/jD/jJWdGnMaNVIYExI1JCLycZfdtUATOOHuOgqn2nnnycy+OwtrCBEXtjc9psNBMlaqHNSBx5feRwK23zwm6FFpcR+8rsR22rXg4R3YPWp2L/tzFQ3a+znLRv32LvSBUaAboxs3k10UIWS1dpJi8/zpWVRPM7zHma65DNih9rJgnu5kwTraZVpWHHMDC6it2Ha0Xcy/ZtuUxeRu+ZwFZD4mK7+8kMui7/t+MTbzSqlxOd3BhaDQbqlcXqwAXBiZ4HqsmZhPQGullFJS/paNMcbYyDgwYzQ4C4Th7F8pIQXOOjPnwYEGN6/YZYP/YEvDggabhmXs9n8wAxqGadgQFExLhUSq3zUIQO1tiNUXG70Z1hPfpsh9dSOgiiIAAAAASUVORK5CYII=" className="counting-img mb-lg" data-pagespeed-url-hash="479965787" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <p className="text-18">In Business Since 2011</p>
 </div>
 <div className="col-6 col-lg mb-0">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img alt="5/5 Pro User Rating" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAMAAACf4xmcAAACnVBMVEUAAAAAAAAzMzPMzMwqKiqqqqokJCSfn58cHBw5OTmqqqpNTU0XFxdGRkYqKipAQEA7OzuSkpKZmZktLS0rKytJSUkjIyNGRkYhISE7OztCQkJAQEA+Pj5MTExKSkpJSUlAQEBOTk5MTExISEg9PT1JSUlOTk4mJiZBQUFMTEwnJydLS0tPT09KSkokJCQoKChBQUFJSUkkJCQoKChAQECurq5BQUGvr69AQECtra2qqqpCQkKwsLC0tLRDQ0NRUVFQUFAsLCykpKSXl5eXl5ebm5suLi5ZWVlbW1uOjo6SkpJMTExKSkpKSkpMTExQUFBPT09DQ0NDQ0NSUlKOjo5RUVGPj4+zs7NFRUVGRkZISEhUVFSioqIrKytTU1OhoaErKyuenp4tLS1CQkJKSkpDQ0NMTExBQUFERERDQ0NQUFBPT09NTU1NTU1KSkosLCwsLCxDQ0NCQkKJiYmKiopRUVFISEhGRkZHR0dGRkZTU1NLS0uwsLBLS0slJSUlJSWnp6eoqKhJSUlKSkpOTk5PT09DQ0NCQkKZmZlCQkKYmJgrKytCQkIqKiqTk5OSkpJUVFRqamotLS1NTU1SUlJDQ0NERERNTU2srKxCQkJERESrq6tHR0dISEhDQ0NOTk5CQkJERERGRkZJSUlLS0tNTU2WlpYlJSUmJiYnJycoKCgpKSkqKiorKyssLCwtLS1CQkJERERGRkZHR0dISEhJSUlKSkpLS0tMTExNTU1OTk5PT09QUFBRUVFSUlJTU1NUVFRVVVVXV1dYWFhaWlpwcHBzc3N1dXV3d3d5eXl6enp7e3t8fHx+fn6AgICBgYGDg4OFhYWIiIiKioqNjY2Tk5OWlpaZmZmcnJyenp6hoaGlpaWoqKisrKywsLCU+gkIAAAAp3RSTlMAAQUFBgYHCAkJCQoLCwwMDQ4PERIVFhYXGhscHR4fIyQkJScqKi4vLy80PT0+Pz8/P0BAQEJDQ0RERUZHR0hISUtUW11eX19fX2Bsbm9vcHFyc3NzdHR2d3iAhoaHh4eJiZSXl5ibnKKjpqewsr7FxsfIy8vP0tPT1Nbe3uHi4+Pk5ebm6Onr7e7u7+/w8fL09/j4+Pn5+fn6+vr7+/39/v7+/v7+/uoNloUAAAJgSURBVDjLtZBnVxNBFEAnqJHYgl0UFSmKFQV7ByUK9opiBQtWrFgQxQL2Aoi9oDQ1bdkYE4QYBWMKISHNXn6LkzeT9Swnrp+8H+bsfe+ebGYRwswuXoc4pHl5Xf/YxuJZgUdRrrFsELdYYTSu4mRgmTFXBE8hg5caDIZdw+EnRL1HFRkMRSP7wq7z0N14tWRICEKL77wmlO9BKKqwmkh1YRRCe8vp6uYCtF0f4ARC46oCUjUaoZPcaiuS5ugIZ2PxaxZVEqlciCX2HF3lSBGSHNP6eRgN/zQDRJsBEv0I5IjEL8c1fir6w2YtiGYNyIAKkKNw0/ss+5Rl2Wmw2YEF206QmSysbuObIsnVe1sil114MhY22bUHJk88WJsNMv7x+eWR225dgpeGR+AjLIZ8T3Ec/mKiuPbEYsLwERGO/jcdZqSnT2/3r2pS/i9M/gThauqDn8DdKUJVp9M/KGc6CmTJ3zmSBbJN3zjWC2SZXzkyBbKULxwpAlmPi58pl7sLXXVuzSegZo7wh0u78RFzPe3vRa8kmWx+6urDJSWHVqbOk8mSegaJumWVMgxj8vlaGabV52vCUprVpW0Vup/x897rdTCMw+ttBN0X2ibbrAaaPJ4WtbrF43lHfAO/El9TAY1ud7NK1ex2G4lfEfOyEUrCW5fLqlRaXS4DHQzjZfEKgtHptCgUFqezgQ7ieVkinb5xOMwKhdnhqKeDRH4mJzTY7Wa53Gy319FB8KzeZrOZTPjQB80SXhDqrBQdHSTws+cEvYXyig6CZzoz5SUdjOFl/QqeAdoPFA3xU33I/jc6ZLN7h8r1DQAAAABJRU5ErkJggg==" className="counting-img mb-lg" data-pagespeed-url-hash="1363465550" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="5/5 Pro User Rating" src="data:image/png;base64,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" className="counting-img mb-lg" data-pagespeed-url-hash="1363465550" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 <p className="text-18">5/5 Pro User Rating</p>
 </div>
 </div>
@@ -1190,19 +1190,19 @@ delivered to the client in a usable electronic format.</p>
 <div className="insight-slider-navigation" id="insight-navigation-block">
 <ul className="nav-block">
 <li className="nav-item active">
-<a href="javascript:void(0)" className="nav-link text-xxl">
+<a href="#" className="nav-link text-xxl">
 <span className="slide-number">01</span>
 <span className="text">Top 1% IT Talent</span>
 </a>
 </li>
 <li className="nav-item">
-<a href="javascript:void(0)" className="nav-link text-xxl">
+<a href="#" className="nav-link text-xxl">
 <span className="slide-number">02</span>
 <span className="text">Time Zone Aligned</span>
 </a>
 </li>
 <li className="nav-item">
-<a href="javascript:void(0)" className="nav-link text-xxl">
+<a href="#" className="nav-link text-xxl">
 <span className="slide-number">03</span>
 <span className="text">Experienced Team</span>
 </a>
@@ -1215,7 +1215,7 @@ delivered to the client in a usable electronic format.</p>
 <div className="item">
 <div className="row align-items-center">
 <div className="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-<picture><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-1.webp" type="image/webp" /><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" /><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic.d9I0JLDGQ2.jpg" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic.d9I0JLDGQ2.jpg" alt="Top 1% IT Talent" title="Top 1% IT Talent" className="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></picture>
+<picture><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-1.webp" type="image/webp" /><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-1.jpg?v-1" type="image/jpeg" /><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic.d9I0JLDGQ2.jpg" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-1.jpg,qv-1.pagespeed.ic.d9I0JLDGQ2.jpg" alt="Top 1% IT Talent" title="Top 1% IT Talent" className="slider-img" data-pagespeed-url-hash="2883500071" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></picture>
 </div>
 <div className="col-lg-4 offset-lg-1 col-md-8">
 <p className="h3 slider-title font-semibold">Top 1% IT Talent</p>
@@ -1226,7 +1226,7 @@ delivered to the client in a usable electronic format.</p>
 <div className="item">
 <div className="row align-items-center">
 <div className="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-<picture><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-2.webp" type="image/webp" /><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" /><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.HlyZVf-hcE.jpg" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.HlyZVf-hcE.jpg" alt="Time Zone Aligned" title="Time Zone Aligned" className="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></picture>
+<picture><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-2.webp" type="image/webp" /><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-2.jpg?v-1" type="image/jpeg" /><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.HlyZVf-hcE.jpg" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-2.jpg,qv-1.pagespeed.ic.HlyZVf-hcE.jpg" alt="Time Zone Aligned" title="Time Zone Aligned" className="slider-img" data-pagespeed-url-hash="3304062408" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /></picture>
 </div>
 <div className="col-lg-4 offset-lg-1 col-md-8">
 <p className="h3 slider-title font-semibold">Time Zone Aligned</p>
@@ -1237,7 +1237,7 @@ delivered to the client in a usable electronic format.</p>
 <div className="item">
 <div className="row align-items-center">
 <div className="col-lg-4 offset-lg-1 col-md-4 col-sm-6">
-<picture><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-3.webp" type="image/webp" /><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" /><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zTC8aL4BmZ.jpg" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zTC8aL4BmZ.jpg" alt="Experienced Team" title="Experienced Team" className="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></picture>
+<picture><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-3.webp" type="image/webp" /><source srcset="https://www.bacancytechnology.com/main-boot-5/images/insight-slide-3.jpg?v-1" type="image/jpeg" /><img data-src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zTC8aL4BmZ.jpg" src="https://www.bacancytechnology.com/main-boot-5/images/xinsight-slide-3.jpg,qv-1.pagespeed.ic.zTC8aL4BmZ.jpg" alt="Experienced Team" title="Experienced Team" className="slider-img" data-pagespeed-url-hash="3724624745" onload="pagespeed.CriticalImages.checkImageForCriticality(this);"/></picture>
 </div>
 <div className="col-lg-4 offset-lg-1 col-md-8">
 <p className="h3 slider-title font-semibold">Experienced Team</p>
