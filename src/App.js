@@ -9,13 +9,13 @@ import {Route, BrowserRouter as Router, Routes} from 'react-router-dom'
 function App() {
   return (
     <Router>
-    <div className="App">
+ 
 <Header />
 <Routes>
   <Route path='/'  element={<Home />}/>
 </Routes>
 <Footer />
-    </div>
+ 
     </Router>
   );
 }
