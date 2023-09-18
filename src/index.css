@@ -12,3 +12,26 @@
   /* background-color: #333; Example background color */
   /* padding: 10px; Add padding for spacing */
 }
+
+.bg-yel{
+  background-color: #EEA323 !important;
+}
+.bg-yel1{
+  background-color: #f19d0a !important;
+}
+
+.text-col{
+color: #EEA323 !important;
+}
+
+
+
+.btn.btn-outline-primary {
+  color: #EEA323 !important;
+  border-color: #EEA323 !important;
+  border: 0.0625rem solid;
+}
+
+.style-check-orange {
+  color: #EEA323 ; /* Replace with your desired color code */
+}

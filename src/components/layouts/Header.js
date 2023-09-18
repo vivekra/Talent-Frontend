@@ -11,8 +11,8 @@ const Header = () => {
 <nav className="navbar navbar-expand-xl light header-navbar text-uppercase">
 <div className="container-fluid px-0">
 <a className="navbar-brand" href="#">
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="/logo.svg" alt="Bacancy" title="Bacancy" className="logo-img logo-black" data-pagespeed-url-hash="3582624031" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
-<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b46feb5e703bd6b3f06565f0-|49"></script><img src="/logo.svg" alt="Bacancy" title="Bacancy" className="logo-img logo-white" data-pagespeed-url-hash="1499742989" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img src="/logo.svg" alt="Bacancy" title="Bacancy" className="logo-img logo-black" data-pagespeed-url-hash="3582624031" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style={{height:'61px'}} />
+<img src="/logo.svg" alt="Bacancy" title="Bacancy" className="logo-img logo-white" data-pagespeed-url-hash="1499742989" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style={{height:'61px'}} />
 </a>
 <div className="collapse navbar-collapse collapse-sidebar" id="collapse-mobile-siderbar">
 <ul className="navbar-nav mr-auto navbar-nav-destop">
@@ -31,8 +31,8 @@ const Header = () => {
 </div>
 <div className="sidebar-backdrop"></div>
 <div className="right-nav-elements mx-4 align-items-center">
-<a href="#   " target="_blank" className="btn btn-outline-primary rounded-pill text-uppercase text-nowrap d-inline-block mx-md-2 book-call-btn font-bold" id="book-a-30-min-call-b-t-cta">Schedule a Call</a>
-<a href="#form" className="btn btn-primary btn-radious text-uppercase round-0 text-nowrap d-inline-block start-h-btn font-bold">START
+<a href="https://calendly.com/digital_talentegra/30min" target="_blank" className="btn btn-outline-primary rounded-pill text-uppercase text-nowrap d-inline-block mx-md-2 book-call-btn font-bold" id="book-a-30-min-call-b-t-cta">Schedule a Call</a>
+<a href="#form" className=" bg-yel btn btn-primary btn-radious text-uppercase round-0 text-nowrap d-inline-block start-h-btn font-bold">START
 15 Days Risk free trial</a>
 </div>
 </div>
