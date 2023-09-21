@@ -1,5 +1,4 @@
 import React from 'react'
-import '../index.css'
 import HomePart1 from './Home/Home-part1/HomePart1'
 import HomePart2 from './Home/Home-part2/HomePart2'
 import HomePart3 from './Home/Home-part3/HomePart3'

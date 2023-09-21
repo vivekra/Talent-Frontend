@@ -1,4 +1,3 @@
-import "./index.css";
 import Home from "./components/Home";
 import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
 import AdminLayout from "./components/Admin/Layout/index";
