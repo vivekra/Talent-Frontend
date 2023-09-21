@@ -82,3 +82,4 @@ function HomePart12() {
 }
 
 export default HomePart12
+

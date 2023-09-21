@@ -13,7 +13,7 @@ function Footer() {
 <h2 className="h4 flag-text-block">
 
 {/* <img alt="Bacancy India" src="https://www.bacancytechnology.com/landing/images/footer-ppc/india.svg" className="flag-img" data-pagespeed-url-hash="3019035395" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /> */}
-<span className="text-white text">DigitalQ UK IT Solutions Ltd</span>
+<span className="text-white text">DigitalQ Information Services Pvt Ltd</span>
 </h2>
 <p className="text-18 text-white">Corporate House</p>
 <p className="text-dark-secondary text-md office-address-text">
@@ -21,24 +21,14 @@ Regus, Concorde Park,Concorde Road, Building 3, Maidenhead, Berkshire,SL6 4FJ.
 </p>
 </div>
 </div>
-<div className="col-12 col-sm-6 col-md-4 col-xl-2 ">
+
+
+ {/* <div className="col-12 col-sm-6 col-md-4 col-xl-2 ">
 <div className="offices-detail-block">
 <h2 className="h4 flag-text-block">
 
-{/* <img alt="Bacancy USA" src="https://www.bacancytechnology.com/landing/images/footer-ppc/usa.svg" className="flag-img" data-pagespeed-url-hash="1379364375" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" /> */}
+
 <span className="text-white text">Corporate Office</span>
-</h2>
-<p className="text-dark-secondary text-md office-address-text">
-Orega Slough,The Switch 1-7,The Grove, Slough - SL1 1PQ.
-</p>
-</div>
-</div>
-<div className="col-12 col-sm-6 col-md-4 col-xl-2 ">
-<div className="offices-detail-block">
-<h2 className="h4 flag-text-block">
-
-<img alt="Bacancy Canada" src="images/india.jpg" className="flag-img"  />
-<span className="text-white text">India</span>
 </h2>
 <p className="text-dark-secondary text-md office-address-text">
 #23, Cholan Street,
@@ -46,6 +36,20 @@ Myilarasu Nagar,
 Chrompet, Chennai - 600 044.
 +91 (044) 2265-3315
 +91 (044) 2265-1990
+</p>
+</div>
+</div>  */}
+
+
+<div className="col-12 col-sm-6 col-md-4 col-xl-2 ">
+<div className="offices-detail-block">
+<h2 className="h4 flag-text-block">
+
+<img alt="Bacancy Canada" src="images/uk.png" className="flag-img"  />
+<span className="text-white text">UK</span>
+</h2>
+<p className="text-dark-secondary text-md office-address-text">
+Orega Slough,The Switch 1-7,The Grove, Slough - SL1 1PQ.
 </p>
 </div>
 </div>

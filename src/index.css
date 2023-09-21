@@ -35,3 +35,8 @@ color: #EEA323 !important;
 .style-check-orange {
   color: #EEA323 ; /* Replace with your desired color code */
 }
+
+
+.css-i0pm0-MuiButtonBase-root-MuiTab-root.Mui-selected {
+  color: #EEA323 !important;
+}

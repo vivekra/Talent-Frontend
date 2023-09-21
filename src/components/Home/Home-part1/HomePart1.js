@@ -5,7 +5,7 @@ function HomePart1() {
     <>
       <section className="header-spacing banner-main europe-new-banner banner-post not-after">
       <figure className="banner-post-img">
-        <img src='/images/banner.jpg' alt="/banner.jpg" />
+        <img src='/images/yellow.png' alt="/banner.jpg" />
       </figure>
       <div className="container-fluid">
         <div className="row gy-4 gy-xl-0 align-items-md-center">
