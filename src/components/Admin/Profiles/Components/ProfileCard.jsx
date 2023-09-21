@@ -6,7 +6,7 @@ const ProfileCard = () => {
         <div className="d-flex justify-center items-center flex-col gap-2">
           <div className="head"></div>
           <div className="body d-flex justify-center flex-col items-center">
-            <img src="/assets/profile/profile.jpg" alt="profile image" className="aspect-square w-20 rounded-full" />
+            <img src="/images/profile.jpg" alt="profile image" className="aspect-square w-20 rounded-full" />
             <h1 className="text-lg font-semibold p-0 m-0">Alaspravinkumar Rajamani</h1>
             <h1 className="text-xs pb-1">alaspersonal115@gmail.com</h1>
             <span className="bg-orange-400 text-slate-100 px-2 rounded-xl text-sm">ReactJS Developer</span>

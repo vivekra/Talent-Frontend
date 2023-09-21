@@ -19,7 +19,7 @@ const SideBarValues = [
 const SideBar = () => {
   return (
     <aside className='bg-amber-200 h-[90vh] w-[8vw] d-flex gap-12 pt-4 flex-col static'>
-      {SideBarValues.map((bar) => <a  href={bar.path} className='d-flex justify-center rounded-xl'>
+      {SideBarValues.map((bar) => <a key={bar.path} href={bar.path} className='d-flex justify-center rounded-xl'>
       <Icon icon={bar.icon} className='h-12 w-12' />
       </a>)}
     </aside>
