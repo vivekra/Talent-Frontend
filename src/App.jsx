@@ -29,7 +29,7 @@ function App() {
       setTimeout(() => {
         dispatch(setSpinner(false));
       }, 3000);
-    }, 10000);
+    }, 1000000);
   }, []);
 
   return (
