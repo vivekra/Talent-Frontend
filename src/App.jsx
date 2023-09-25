@@ -33,6 +33,7 @@ function App() {
   }, []);
 
   return (
+    <>
     {spinner && <SpinnerComponent />}
     <Router>
       <Routes>
@@ -54,6 +55,7 @@ function App() {
               <Route index element={<AdminHome />} />
               <Route path="profiles" element={<AdminProfiles />} />
             </Route>
+          </Route>
           </Route>
         </Routes>
       </Router>
