@@ -4,6 +4,7 @@ import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import ParticlesBackground from '../particlesBackground';
 import Joi from 'joi';
+import { ToastContainer, toast } from 'react-toastify';
 
 function SignIn() {
   const schema = Joi.object({
@@ -53,6 +54,8 @@ function SignIn() {
           }
         );
 
+      
+
         if (response.status === 200) {
           console.log('Login successful');
 
@@ -67,10 +70,13 @@ function SignIn() {
         } else {
           console.error('Login failed');
           // Handle login failure (e.g., display an error message)
+         
         }
       } catch (error) {
         console.error('An error occurred:', error);
+        console.error('An error occurred:', error.response.data.message);
         // Handle network errors or other exceptions
+        toast.error(error.response.data.message)
       }
     }
   };
@@ -78,6 +84,7 @@ function SignIn() {
   return (
     <>
       <ParticlesBackground />
+      <ToastContainer />
       <div className="container container-fluid mt-5" style={{ marginTop: '100vh', marginBottom: '10vh' }}>
         <div className="row wrapper" style={{ marginTop: '20vh' ,backgroundColor:'#5A5A5A' }}>
           <div className="col-10 col-lg-5">
@@ -92,7 +99,7 @@ function SignIn() {
                   value={userName}
                   onChange={(e) => setUserName(e.target.value)}
                 />
-                {errors.userName && <p className="error" style={{color:'red'}}>{errors.userName}</p>}
+                {errors.userName && <p className="error text-xs font-medium" style={{color:'red'}}>{errors.userName}</p>}
               </div>
 
               <div className="form-group">
@@ -104,7 +111,7 @@ function SignIn() {
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                 />
-                {errors.password && <p className="error" style={{color:'red'}}>{errors.password}</p>}
+                {errors.password && <p className="error text-xs font-medium" style={{color:'red'}}>{errors.password}</p>}
               </div>
 
               <a href="/forgotpassword" className="float-right mb-4">

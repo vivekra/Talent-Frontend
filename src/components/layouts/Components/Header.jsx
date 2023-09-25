@@ -85,10 +85,8 @@ const Header = () => {
  
 {userData ? (
   <>
-<NavProfile onLogoutClick ={handleLogout} />
-{/* <button className="mr-5" onClick={handleLogout}>
-              Logout
-            </button> */}
+<NavProfile onLogoutClick ={handleLogout}  />
+
             </>
 
 ) :

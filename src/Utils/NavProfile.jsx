@@ -72,7 +72,8 @@ function NavProfile(props) {
           // Example: handleLogout();
   
           // handleLogout() 
-          props.onLogoutClick()
+          // props.onLogoutClick()
+          navigate('/logout')
   
           break;
         default:

@@ -56,7 +56,7 @@ function Register() {
         userData
       );
 
-      if (response.status === 200) {
+      if (response.status === 201) {
         console.log('Register successful');
 
         // Navigate to the home page
@@ -94,7 +94,7 @@ function Register() {
                   onChange={onChange}
                 />
                 {errors.name && (
-                  <p className="error" style={{ color: 'red' }}>
+                  <p className="error text-xs font-medium" style={{ color: 'red' }}>
                     {errors.name}
                   </p>
                 )}
@@ -111,7 +111,7 @@ function Register() {
                   onChange={onChange}
                 />
                 {errors.email && (
-                  <p className="error" style={{ color: 'red' }}>
+                  <p className="error text-xs font-medium" style={{ color: 'red' }}>
                     {errors.email}
                   </p>
                 )}
@@ -128,7 +128,7 @@ function Register() {
                   onChange={onChange}
                 />
                 {errors.mobileNumber && (
-                  <p className="error" style={{ color: 'red' }}>
+                  <p className="error text-xs font-medium" style={{ color: 'red' }}>
                     {errors.mobileNumber}
                   </p>
                 )}
@@ -145,7 +145,7 @@ function Register() {
                   onChange={onChange}
                 />
                 {errors.password && (
-                  <p className="error" style={{ color: 'red' }}>
+                  <p className=" text-xs font-medium" style={{ color: 'red' }}>
                     {errors.password}
                   </p>
                 )}
@@ -162,7 +162,7 @@ function Register() {
                   onChange={onChange}
                 />
                 {errors.confirmPassword && (
-                  <p className="error" style={{ color: 'red' }}>
+                  <p className="error text-xs font-medium" style={{ color: 'red' }}>
                     {errors.confirmPassword}
                   </p>
                 )}
