@@ -7,33 +7,52 @@ import AdminProfiles from "./components/Admin/Profiles/index";
 import AuthLayout from "./components/layouts/AuthLayout";
 import UnAuthorizedPage from "./components/layouts/Components/UnAuthorizedPage";
 import UserLayout from "./components/layouts/UserLayout";
-import SignIn from './components/Auth/SignIn';
-import Register from './components/Auth/Register';
-import UserDetails from './components/UserDetails/UserDetails';
+import SignIn from "./components/Auth/SignIn";
+import Register from "./components/Auth/Register";
+import UserDetails from "./components/UserDetails/UserDetails";
 import LogoutPage from "./components/layouts/Components/LogoutPage";
+import SpinnerComponent from "./components/layouts/Components/Spinner";
+import { useDispatch, useSelector } from "react-redux";
+import { useEffect } from "react";
+import { setSpinner } from "./Redux/Slice/homeSlice";
 
 function App() {
+  const dispatch = useDispatch();
+  const { spinner } = useSelector((state) => state.index);
+
+  useEffect(() => {
+    setInterval(() => {
+      dispatch(setSpinner(true));
+      setTimeout(() => {
+        dispatch(setSpinner(false));
+      }, 3000);
+    }, 10000);
+  }, []);
+
   return (
-    <Router>
-      <Routes>
-        <Route path="/unauthorized" element={<UnAuthorizedPage />} />
-        <Route path="/logout" element={<LogoutPage />} />
-        <Route path='/signin' element={<SignIn />} />
-        <Route path='/new_user_add' element={<Register />} />
-        <Route path='/user_details' element={<UserDetails />} />
-        <Route path="/" element={<UserLayout />}>
-          <Route index element={<Home />} />
-        </Route>
-        <Route path="/" element={<AuthLayout />}>
-          <Route path="admin" element={<ProtectedLayout />}>
-            <Route path="" element={<AdminLayout />}>
-              <Route index element={<AdminHome />} />
-              <Route path="profiles" element={<AdminProfiles />} />
+    <>
+      {spinner && <SpinnerComponent />}
+      <Router>
+        <Routes>
+          <Route path="/unauthorized" element={<UnAuthorizedPage />} />
+          <Route path="/logout" element={<LogoutPage />} />
+          <Route path="/signin" element={<SignIn />} />
+          <Route path="/new_user_add" element={<Register />} />
+          <Route path="/user_details" element={<UserDetails />} />
+          <Route path="/" element={<UserLayout />}>
+            <Route index element={<Home />} />
+          </Route>
+          <Route path="/" element={<AuthLayout />}>
+            <Route path="admin" element={<ProtectedLayout />}>
+              <Route path="" element={<AdminLayout />}>
+                <Route index element={<AdminHome />} />
+                <Route path="profiles" element={<AdminProfiles />} />
+              </Route>
             </Route>
           </Route>
-        </Route>
-      </Routes>
-    </Router>
+        </Routes>
+      </Router>
+    </>
   );
 }
 
