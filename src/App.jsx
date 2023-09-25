@@ -10,22 +10,24 @@ import UserLayout from "./components/layouts/UserLayout";
 import SignIn from './components/Auth/SignIn';
 import Register from './components/Auth/Register';
 import UserDetails from './components/UserDetails/UserDetails';
+import LogoutPage from "./components/layouts/Components/LogoutPage";
 
 function App() {
   return (
     <Router>
       <Routes>
-        <Route path="unauthorized" element={<UnAuthorizedPage />} />
+        <Route path="/unauthorized" element={<UnAuthorizedPage />} />
+        <Route path="/logout" element={<LogoutPage />} />
         <Route path='/signin' element={<SignIn />} />
         <Route path='/new_user_add' element={<Register />} />
         <Route path='/user_details' element={<UserDetails />} />
         <Route path="/" element={<UserLayout />}>
-          <Route path="" element={<Home />} />
+          <Route index element={<Home />} />
         </Route>
         <Route path="/" element={<AuthLayout />}>
           <Route path="admin" element={<ProtectedLayout />}>
             <Route path="" element={<AdminLayout />}>
-              <Route path="home" element={<AdminHome />} />
+              <Route index element={<AdminHome />} />
               <Route path="profiles" element={<AdminProfiles />} />
             </Route>
           </Route>
