@@ -5,7 +5,7 @@ function HomePart4() {
    <>
    <section className="section-padding pt-200 full-width-form pb-200 banner-post" id="form">
 <figure className="banner-post-img">
-<img alt="Hire React Developer" src="https://www.bacancytechnology.com/main-boot-5/images/xform-bg-aus.png.pagespeed.ic.gkqjeu5L4d.png" className data-pagespeed-url-hash="3272041600" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+<img alt="Hire React Developer" src="/images/form-background.jpg" className data-pagespeed-url-hash="3272041600" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
 </figure>
 <div className="container">
 <div className="row align-items-lg-center">

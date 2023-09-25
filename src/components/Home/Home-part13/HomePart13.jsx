@@ -1,4 +1,5 @@
 import React from 'react'
+import { ComplexNavbar } from '../../layouts/Components/Sample'
 
 function HomePart13() {
   return (
@@ -19,7 +20,7 @@ talk <span className="long-arrow-icon-css icon-item right ml-3"></span></span> <
 </div>
 </div>
 <div className="col-lg-9">
-<div className="accordian-outer" itemscope itemtype="https://schema.org/FAQPage">
+ <div className="accordian-outer" itemscope itemtype="https://schema.org/FAQPage">
 <div className="accordion-item accordian-tab" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 <div className="faq-heading">
 <a href="#a" itemprop="name">Is 15 days risk-free trial period completely free?</a>
@@ -169,7 +170,9 @@ until the termination date. On termination, all work completed to time shall be
 delivered to the client in a usable electronic format.</p>
 </div>
 </div>
-</div>
+</div> 
+
+{/* <ComplexNavbar /> */}
 </div>
 </div>
 </div>

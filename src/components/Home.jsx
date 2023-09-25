@@ -57,7 +57,7 @@ function Home() {
 <HomePart11 />
 
 {/* 12+ Years and Counting... */}
-<HomePart12 />
+{/* <HomePart12 /> */}
 
 {/* Frequently Asked Questions */}
 <HomePart13 />

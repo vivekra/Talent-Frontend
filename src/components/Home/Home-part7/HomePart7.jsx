@@ -3,12 +3,15 @@ import React from 'react'
 function HomePart7() {
   return (
    <>
-   
+     <section className="section-padding section-padding-md banner-post bg-white resp-row">
+<figure className="banner-post-img">
+<img alt="Our Development Center Strength" src="https://www.bacancytechnology.com/main-boot-5/images/react-ppc-22/xdot-bg.png.pagespeed.ic.-R_ENwheW3.png" className data-pagespeed-url-hash="2026396024" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" />
+</figure>
    <section className="section-padding" id="skills">
 <div className="container">
 <div className="row gy-4 gx-4 align-items-center">
 <div className="col-lg-5">
-<img alt="Hire the Experienced React Developers who are Skilled in" src="images/profile5.jpg" className="skill-img w-auto" data-pagespeed-url-hash="1270675385" />
+<img alt="Hire the Experienced React Developers who are Skilled in" src="images/manimage.jpg" className="skill-img w-auto" data-pagespeed-url-hash="1270675385" />
 </div>
 <div className="col-lg-6 offset-lg-1">
 <div className="section-title-and-desc mb-lg">
@@ -30,7 +33,7 @@ Talent</a>
 </div>
 </div>
 </section>
-   
+</section>   
    </>
   )
 }

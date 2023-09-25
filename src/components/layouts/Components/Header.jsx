@@ -1,7 +1,54 @@
 // Header.js
-import React from 'react';
+import React, { useEffect, useState } from 'react';
+
+import { useNavigate } from 'react-router-dom';
+import {
+  Popover,
+  PopoverHandler,
+  PopoverContent,
+   Avatar,
+  Button,
+  Typography,
+  List,
+  ListItem,
+  ListItemPrefix,
+} from "@material-tailwind/react";
+import NavProfile from '../../../Utils/NavProfile';
+
 
 const Header = () => {
+
+
+  const [userData, setUserData] = useState(null);
+  const navigate = useNavigate()
+
+  const [isPopoverOpen, setIsPopoverOpen] = useState(false);
+
+  const togglePopover = () => {
+    setIsPopoverOpen(!isPopoverOpen);
+  };
+
+  useEffect(() => {
+    // Check if UserData is in local storage
+    const storedUserData = localStorage.getItem('UserData');
+
+    if (storedUserData) {
+      // User is logged in
+      setUserData(JSON.parse(storedUserData));
+    }
+  }, [userData]);
+
+  const handleLogout = () => {
+    // Remove UserData from local storage
+    localStorage.removeItem('UserData');
+    // Clear the user data state
+    setUserData(null);
+    // Navigate to the sign-in page or any other desired destination
+    navigate('/');
+  };
+
+
+
   return (
    
 
@@ -29,10 +76,25 @@ const Header = () => {
 </li>
 </ul>
 </div>
-<div className="sidebar-backdrop"></div>
+{/* <div className="sidebar-backdrop"><h3></div> */}
 <div className="right-nav-elements mx-4 align-items-center">
-<a href="https://calendly.com/digital_talentegra/30min" target="_blank" className="btn btn-outline-primary rounded-pill text-uppercase text-nowrap d-inline-block mx-md-2 book-call-btn font-bold" id="book-a-30-min-call-b-t-cta">Schedule a Call</a>
-<a href="signin" className=" bg-yel btn btn-primary btn-radious text-uppercase round-0 text-nowrap d-inline-block start-h-btn font-bold">SIGNIN</a>
+  
+<a href="https://calendly.com/digital_talentegra/30min" target="_blank" className=" signin-btn bg-white-call-btn btn btn-primary btn-radious text-uppercase round-0 text-nowrap d-inline-block start-h-btn font-bold"  >Schedule a Call</a>
+
+
+ 
+{userData ? (
+  <>
+<NavProfile onLogoutClick ={handleLogout} />
+{/* <button className="mr-5" onClick={handleLogout}>
+              Logout
+            </button> */}
+            </>
+
+) :
+(<a href="signin" className=" bg-yel btn btn-primary btn-radious text-uppercase round-0 text-nowrap d-inline-block start-h-btn font-bold">SIGNIN</a>
+)
+}
 </div>
 
 
