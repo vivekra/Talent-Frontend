@@ -15,22 +15,11 @@ import ForgotPassword from "./components/Auth/ForgotPassword";
 import { ComplexNavbar } from "./components/layouts/Components/Sample";
 
 import SpinnerComponent from "./components/layouts/Components/Spinner";
-import { useDispatch, useSelector } from "react-redux";
-import { useEffect } from "react";
-import { setSpinner } from "./Redux/Slice/homeSlice";
+import { useSelector } from "react-redux";
+import AccountActivationPage from "./components/layouts/Components/AccountActivationPage";
 
 function App() {
-  const dispatch = useDispatch();
   const { spinner } = useSelector((state) => state.index);
-
-  useEffect(() => {
-    setInterval(() => {
-      dispatch(setSpinner(true));
-      setTimeout(() => {
-        dispatch(setSpinner(false));
-      }, 3000);
-    }, 1000000);
-  }, []);
 
   return (
     <>
@@ -38,6 +27,7 @@ function App() {
     <Router>
       <Routes>
         <Route path="/unauthorized" element={<UnAuthorizedPage />} />
+        <Route path="/activateuser/:id" element={<AccountActivationPage />} />
         <Route path="/logout" element={<LogoutPage />} />
         <Route path='/signin' element={<SignIn />} />
         <Route path='/new_user_add' element={<Register />} />
