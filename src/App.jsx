@@ -13,10 +13,10 @@ import UserDetails from "./components/UserDetails/UserDetails";
 import LogoutPage from "./components/layouts/Components/LogoutPage";
 import ForgotPassword from "./components/Auth/ForgotPassword";
 import { ComplexNavbar } from "./components/layouts/Components/Sample";
-
 import SpinnerComponent from "./components/layouts/Components/Spinner";
 import { useSelector } from "react-redux";
 import AccountActivationPage from "./components/layouts/Components/AccountActivationPage";
+import UserProfile from "./components/UserProfile";
 
 function App() {
   const { spinner } = useSelector((state) => state.index);
@@ -44,6 +44,7 @@ function App() {
             <Route path="" element={<AdminLayout />}>
               <Route index element={<AdminHome />} />
               <Route path="profiles" element={<AdminProfiles />} />
+              <Route path="userprofiles" element={<UserProfile />} />
             </Route>
           </Route>
           </Route>

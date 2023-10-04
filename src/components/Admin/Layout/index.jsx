@@ -9,7 +9,7 @@ const AdminLayout = () => {
       <Header />
       <div className="d-flex w-full flex-row sticky">
         <SideBar />
-        <div className="container h-[90vh] overflow-y-auto">
+        <div className="h-[90vh] overflow-y-auto bg-gray-100 w-full">
           <Outlet />
         </div>
       </div>
